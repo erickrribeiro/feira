@@ -1,0 +1,25 @@
+# Configuration for Rasa NLU.
+# https://rasa.com/docs/rasa/nlu/components/
+language: pt
+
+pipeline:
+- name: SpacyNLP
+- name: SpacyTokenizer
+- name: EntitySynonymMapper
+- name: RegexFeaturizer
+- name: CRFEntityExtractor
+- name: CountVectorsFeaturizer
+  strip_accents: unicode
+  lowercase: true
+- name: EmbeddingIntentClassifier
+  epochs: 100
+  batch_size: 32
+
+# Configuration for Rasa Core.
+# https://rasa.com/docs/rasa/core/policies/
+policies:
+- name: FormPolicy
+- name: KerasPolicy
+  epochs: 200
+  augmentation: 20
+- name: MappingPolicy

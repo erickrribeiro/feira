@@ -1,0 +1,53 @@
+slots:
+  location:
+    type: unfeaturized
+intents:
+  - greet
+  - goodbye
+  - affirm
+  - deny
+  - get_weather
+
+entities:
+- location
+
+
+
+
+actions:
+- utter_greet
+- utter_did_that_help
+- utter_goodbye
+- utter_weather
+- utter_explain
+
+forms:
+  - weather_form
+
+templates:
+  utter_weather:
+  - text: "API de tempo"
+
+  utter_greet:
+  - text: "Olá! o que você deseja?"
+
+  utter_ask_again:
+  - text: "Deseja fazer outra pergunta?"
+  
+  utter_ask_location:
+  - text: "Você deve informar o nome da cidade."
+
+  utter_wrong_location:
+    - text: "Não tenho suporte para essa localização?"
+
+  utter_explain:
+  - text: "Você quer informações de que outro lugar?"
+
+  utter_did_that_help:
+  - text: "Isso foi útil?"
+
+  utter_submit:
+  - text: "Submetendo todos os dados."
+
+  utter_goodbye:
+  - text: "Tchau!"

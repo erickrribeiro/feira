@@ -1,0 +1,38 @@
+version: '3.5'
+
+volumes:
+  data:
+
+services:      
+  rabbit1:
+    image: "rabbitmq:3-management"
+    hostname: "rabbit1"
+    ports:
+      - "8080:15672"
+      - "5672:5672"
+    labels:
+      NAME: "rabbitmq1"
+    volumes:
+      - "./enabled_plugins:/etc/rabbitmq/enabled_plugins"
+  redis:
+    image: redis:5.0.5
+    ports:
+      - "6379:6379"
+    networks:
+      - redis-network
+  redis-commander:
+    container_name: redis-commander
+    hostname: redis-commander
+    image: rediscommander/redis-commander:latest
+    restart: always
+    depends_on:
+      - redis
+    environment:
+    - REDIS_HOSTS=local:redis:6379
+    ports:
+    - "8081:8081"
+    networks:
+      - redis-network
+networks: 
+  redis-network:
+    driver: bridge

@@ -1,0 +1,1865 @@
+2019-10-07 15:36:53,962 [ERROR]  Exception occurred while handling uri: 'http://localhost:5500/socket.io/?EIO=3&transport=polling&t=MsdkNl4'
+Traceback (most recent call last):
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/router.py", line 469, in _get
+    raise NotFound("Requested URL {} not found".format(url))
+sanic.exceptions.NotFound: Requested URL /socket.io/ not found
+2019-10-07 15:36:59,983 [ERROR]  Exception occurred while handling uri: 'http://localhost:5500/socket.io/?EIO=3&transport=polling&t=MsdkPD6'
+Traceback (most recent call last):
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/router.py", line 469, in _get
+    raise NotFound("Requested URL {} not found".format(url))
+sanic.exceptions.NotFound: Requested URL /socket.io/ not found
+2019-10-07 15:37:05,026 [ERROR]  Exception occurred while handling uri: 'http://localhost:5500/socket.io/?EIO=3&transport=polling&t=MsdkQRu'
+Traceback (most recent call last):
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/router.py", line 469, in _get
+    raise NotFound("Requested URL {} not found".format(url))
+sanic.exceptions.NotFound: Requested URL /socket.io/ not found
+2019-10-07 15:37:10,958 [ERROR]  Exception occurred while handling uri: 'http://localhost:5500/socket.io/?EIO=3&transport=polling&t=MsdkRug'
+Traceback (most recent call last):
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/router.py", line 469, in _get
+    raise NotFound("Requested URL {} not found".format(url))
+sanic.exceptions.NotFound: Requested URL /socket.io/ not found
+2019-10-07 15:37:17,963 [ERROR]  Exception occurred while handling uri: 'http://localhost:5500/socket.io/?EIO=3&transport=polling&t=MsdkTc2'
+Traceback (most recent call last):
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/router.py", line 469, in _get
+    raise NotFound("Requested URL {} not found".format(url))
+sanic.exceptions.NotFound: Requested URL /socket.io/ not found
+2019-10-07 15:37:23,968 [ERROR]  Exception occurred while handling uri: 'http://localhost:5500/socket.io/?EIO=3&transport=polling&t=MsdkV3u'
+Traceback (most recent call last):
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/router.py", line 469, in _get
+    raise NotFound("Requested URL {} not found".format(url))
+sanic.exceptions.NotFound: Requested URL /socket.io/ not found
+2019-10-07 15:37:29,964 [ERROR]  Exception occurred while handling uri: 'http://localhost:5500/socket.io/?EIO=3&transport=polling&t=MsdkWXY'
+Traceback (most recent call last):
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/router.py", line 469, in _get
+    raise NotFound("Requested URL {} not found".format(url))
+sanic.exceptions.NotFound: Requested URL /socket.io/ not found
+2019-10-07 15:37:36,957 [ERROR]  Exception occurred while handling uri: 'http://localhost:5500/socket.io/?EIO=3&transport=polling&t=MsdkYEv'
+Traceback (most recent call last):
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/router.py", line 469, in _get
+    raise NotFound("Requested URL {} not found".format(url))
+sanic.exceptions.NotFound: Requested URL /socket.io/ not found
+2019-10-07 15:37:43,973 [ERROR]  Exception occurred while handling uri: 'http://localhost:5500/socket.io/?EIO=3&transport=polling&t=MsdkZyL'
+Traceback (most recent call last):
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/router.py", line 469, in _get
+    raise NotFound("Requested URL {} not found".format(url))
+sanic.exceptions.NotFound: Requested URL /socket.io/ not found
+2019-10-07 15:37:50,967 [ERROR]  Exception occurred while handling uri: 'http://localhost:5500/socket.io/?EIO=3&transport=polling&t=Msdkbfg'
+Traceback (most recent call last):
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/router.py", line 469, in _get
+    raise NotFound("Requested URL {} not found".format(url))
+sanic.exceptions.NotFound: Requested URL /socket.io/ not found
+2019-10-07 15:37:57,964 [ERROR]  Exception occurred while handling uri: 'http://localhost:5500/socket.io/?EIO=3&transport=polling&t=MsdkdN2'
+Traceback (most recent call last):
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/router.py", line 469, in _get
+    raise NotFound("Requested URL {} not found".format(url))
+sanic.exceptions.NotFound: Requested URL /socket.io/ not found
+2019-10-07 15:38:04,963 [ERROR]  Exception occurred while handling uri: 'http://localhost:5500/socket.io/?EIO=3&transport=polling&t=Msdkf4Q'
+Traceback (most recent call last):
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/router.py", line 469, in _get
+    raise NotFound("Requested URL {} not found".format(url))
+sanic.exceptions.NotFound: Requested URL /socket.io/ not found
+2019-10-07 15:38:11,964 [ERROR]  Exception occurred while handling uri: 'http://localhost:5500/socket.io/?EIO=3&transport=polling&t=Msdkgnp'
+Traceback (most recent call last):
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/router.py", line 469, in _get
+    raise NotFound("Requested URL {} not found".format(url))
+sanic.exceptions.NotFound: Requested URL /socket.io/ not found
+2019-10-07 15:38:18,967 [ERROR]  Exception occurred while handling uri: 'http://localhost:5500/socket.io/?EIO=3&transport=polling&t=MsdkiVA'
+Traceback (most recent call last):
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/router.py", line 469, in _get
+    raise NotFound("Requested URL {} not found".format(url))
+sanic.exceptions.NotFound: Requested URL /socket.io/ not found
+2019-10-07 15:38:25,964 [ERROR]  Exception occurred while handling uri: 'http://localhost:5500/socket.io/?EIO=3&transport=polling&t=MsdkkCZ'
+Traceback (most recent call last):
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/router.py", line 469, in _get
+    raise NotFound("Requested URL {} not found".format(url))
+sanic.exceptions.NotFound: Requested URL /socket.io/ not found
+2019-10-07 15:38:39,966 [ERROR]  Exception occurred while handling uri: 'http://localhost:5500/socket.io/?EIO=3&transport=polling&t=MsdkndI'
+Traceback (most recent call last):
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/router.py", line 469, in _get
+    raise NotFound("Requested URL {} not found".format(url))
+sanic.exceptions.NotFound: Requested URL /socket.io/ not found
+2019-10-07 15:38:46,968 [ERROR]  Exception occurred while handling uri: 'http://localhost:5500/socket.io/?EIO=3&transport=polling&t=MsdkpKk'
+Traceback (most recent call last):
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/router.py", line 469, in _get
+    raise NotFound("Requested URL {} not found".format(url))
+sanic.exceptions.NotFound: Requested URL /socket.io/ not found
+2019-10-07 15:38:52,980 [ERROR]  Exception occurred while handling uri: 'http://localhost:5500/socket.io/?EIO=3&transport=polling&t=Msdkqoi'
+Traceback (most recent call last):
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/router.py", line 469, in _get
+    raise NotFound("Requested URL {} not found".format(url))
+sanic.exceptions.NotFound: Requested URL /socket.io/ not found
+2019-10-07 15:38:58,016 [ERROR]  Exception occurred while handling uri: 'http://localhost:5500/socket.io/?EIO=3&transport=polling&t=Msdks1O'
+Traceback (most recent call last):
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/router.py", line 469, in _get
+    raise NotFound("Requested URL {} not found".format(url))
+sanic.exceptions.NotFound: Requested URL /socket.io/ not found
+2019-10-07 15:39:02,483 [ERROR]  Exception occurred while handling uri: 'http://localhost:5500/socket.io/?EIO=3&transport=polling&t=Msdkt7H'
+Traceback (most recent call last):
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/router.py", line 469, in _get
+    raise NotFound("Requested URL {} not found".format(url))
+sanic.exceptions.NotFound: Requested URL /socket.io/ not found
+2019-10-07 15:39:03,585 [ERROR]  Exception occurred while handling uri: 'http://localhost:5500/socket.io/?EIO=3&transport=polling&t=MsdktOW'
+Traceback (most recent call last):
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/router.py", line 469, in _get
+    raise NotFound("Requested URL {} not found".format(url))
+sanic.exceptions.NotFound: Requested URL /socket.io/ not found
+2019-10-07 15:39:04,476 [ERROR]  Exception occurred while handling uri: 'http://localhost:5500/socket.io/?EIO=3&transport=polling&t=MsdktcL'
+Traceback (most recent call last):
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/router.py", line 469, in _get
+    raise NotFound("Requested URL {} not found".format(url))
+sanic.exceptions.NotFound: Requested URL /socket.io/ not found
+2019-10-07 15:39:07,041 [ERROR]  Exception occurred while handling uri: 'http://localhost:5500/socket.io/?EIO=3&transport=polling&t=MsdkuEU'
+Traceback (most recent call last):
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/router.py", line 469, in _get
+    raise NotFound("Requested URL {} not found".format(url))
+sanic.exceptions.NotFound: Requested URL /socket.io/ not found
+2019-10-07 15:39:08,248 [ERROR]  Exception occurred while handling uri: 'http://localhost:5500/socket.io/?EIO=3&transport=polling&t=MsdkuXA'
+Traceback (most recent call last):
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/router.py", line 469, in _get
+    raise NotFound("Requested URL {} not found".format(url))
+sanic.exceptions.NotFound: Requested URL /socket.io/ not found
+2019-10-07 15:39:10,671 [ERROR]  Exception occurred while handling uri: 'http://localhost:5500/socket.io/?EIO=3&transport=polling&t=Msdkv7D'
+Traceback (most recent call last):
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/router.py", line 469, in _get
+    raise NotFound("Requested URL {} not found".format(url))
+sanic.exceptions.NotFound: Requested URL /socket.io/ not found
+2019-10-07 15:39:13,849 [ERROR]  Exception occurred while handling uri: 'http://localhost:5500/socket.io/?EIO=3&transport=polling&t=Msdkvup'
+Traceback (most recent call last):
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/router.py", line 469, in _get
+    raise NotFound("Requested URL {} not found".format(url))
+sanic.exceptions.NotFound: Requested URL /socket.io/ not found
+2019-10-07 15:39:18,969 [ERROR]  Exception occurred while handling uri: 'http://localhost:5500/socket.io/?EIO=3&transport=polling&t=Msdkx8h'
+Traceback (most recent call last):
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/router.py", line 469, in _get
+    raise NotFound("Requested URL {} not found".format(url))
+sanic.exceptions.NotFound: Requested URL /socket.io/ not found
+2019-10-07 15:39:25,963 [ERROR]  Exception occurred while handling uri: 'http://localhost:5500/socket.io/?EIO=3&transport=polling&t=Msdkys3'
+Traceback (most recent call last):
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/router.py", line 469, in _get
+    raise NotFound("Requested URL {} not found".format(url))
+sanic.exceptions.NotFound: Requested URL /socket.io/ not found
+2019-10-07 15:39:32,964 [ERROR]  Exception occurred while handling uri: 'http://localhost:5500/socket.io/?EIO=3&transport=polling&t=Msdk-ZQ'
+Traceback (most recent call last):
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/router.py", line 469, in _get
+    raise NotFound("Requested URL {} not found".format(url))
+sanic.exceptions.NotFound: Requested URL /socket.io/ not found
+2019-10-07 15:39:39,956 [ERROR]  Exception occurred while handling uri: 'http://localhost:5500/socket.io/?EIO=3&transport=polling&t=Msdl0Gn'
+Traceback (most recent call last):
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/router.py", line 469, in _get
+    raise NotFound("Requested URL {} not found".format(url))
+sanic.exceptions.NotFound: Requested URL /socket.io/ not found
+2019-10-07 15:39:46,959 [ERROR]  Exception occurred while handling uri: 'http://localhost:5500/socket.io/?EIO=3&transport=polling&t=Msdl1-9'
+Traceback (most recent call last):
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/router.py", line 469, in _get
+    raise NotFound("Requested URL {} not found".format(url))
+sanic.exceptions.NotFound: Requested URL /socket.io/ not found
+2019-10-07 15:39:53,964 [ERROR]  Exception occurred while handling uri: 'http://localhost:5500/socket.io/?EIO=3&transport=polling&t=Msdl3hZ'
+Traceback (most recent call last):
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/router.py", line 469, in _get
+    raise NotFound("Requested URL {} not found".format(url))
+sanic.exceptions.NotFound: Requested URL /socket.io/ not found
+2019-10-07 15:40:00,024 [ERROR]  Exception occurred while handling uri: 'http://localhost:5500/socket.io/?EIO=3&transport=polling&t=Msdl59v'
+Traceback (most recent call last):
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/router.py", line 469, in _get
+    raise NotFound("Requested URL {} not found".format(url))
+sanic.exceptions.NotFound: Requested URL /socket.io/ not found
+2019-10-07 15:40:05,969 [ERROR]  Exception occurred while handling uri: 'http://localhost:5500/socket.io/?EIO=3&transport=polling&t=Msdl6d2'
+Traceback (most recent call last):
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/router.py", line 469, in _get
+    raise NotFound("Requested URL {} not found".format(url))
+sanic.exceptions.NotFound: Requested URL /socket.io/ not found
+2019-10-07 15:40:12,965 [ERROR]  Exception occurred while handling uri: 'http://localhost:5500/socket.io/?EIO=3&transport=polling&t=Msdl8KQ'
+Traceback (most recent call last):
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/router.py", line 469, in _get
+    raise NotFound("Requested URL {} not found".format(url))
+sanic.exceptions.NotFound: Requested URL /socket.io/ not found
+2019-10-07 15:40:19,974 [ERROR]  Exception occurred while handling uri: 'http://localhost:5500/socket.io/?EIO=3&transport=polling&t=MsdlA1o'
+Traceback (most recent call last):
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/router.py", line 469, in _get
+    raise NotFound("Requested URL {} not found".format(url))
+sanic.exceptions.NotFound: Requested URL /socket.io/ not found
+2019-10-07 15:40:26,965 [ERROR]  Exception occurred while handling uri: 'http://localhost:5500/socket.io/?EIO=3&transport=polling&t=MsdlBlC'
+Traceback (most recent call last):
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/router.py", line 469, in _get
+    raise NotFound("Requested URL {} not found".format(url))
+sanic.exceptions.NotFound: Requested URL /socket.io/ not found
+2019-10-07 15:40:33,966 [ERROR]  Exception occurred while handling uri: 'http://localhost:5500/socket.io/?EIO=3&transport=polling&t=MsdlDSY'
+Traceback (most recent call last):
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/router.py", line 469, in _get
+    raise NotFound("Requested URL {} not found".format(url))
+sanic.exceptions.NotFound: Requested URL /socket.io/ not found
+2019-10-07 15:40:40,971 [ERROR]  Exception occurred while handling uri: 'http://localhost:5500/socket.io/?EIO=3&transport=polling&t=MsdlF9x'
+Traceback (most recent call last):
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/router.py", line 469, in _get
+    raise NotFound("Requested URL {} not found".format(url))
+sanic.exceptions.NotFound: Requested URL /socket.io/ not found
+2019-10-07 15:40:47,972 [ERROR]  Exception occurred while handling uri: 'http://localhost:5500/socket.io/?EIO=3&transport=polling&t=MsdlGtJ'
+Traceback (most recent call last):
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/router.py", line 469, in _get
+    raise NotFound("Requested URL {} not found".format(url))
+sanic.exceptions.NotFound: Requested URL /socket.io/ not found
+2019-10-07 15:40:54,963 [ERROR]  Exception occurred while handling uri: 'http://localhost:5500/socket.io/?EIO=3&transport=polling&t=MsdlIah'
+Traceback (most recent call last):
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/router.py", line 469, in _get
+    raise NotFound("Requested URL {} not found".format(url))
+sanic.exceptions.NotFound: Requested URL /socket.io/ not found
+2019-10-07 15:41:07,969 [ERROR]  Exception occurred while handling uri: 'http://localhost:5500/socket.io/?EIO=3&transport=polling&t=MsdlLlq'
+Traceback (most recent call last):
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/router.py", line 469, in _get
+    raise NotFound("Requested URL {} not found".format(url))
+sanic.exceptions.NotFound: Requested URL /socket.io/ not found
+2019-10-07 15:41:14,968 [ERROR]  Exception occurred while handling uri: 'http://localhost:5500/socket.io/?EIO=3&transport=polling&t=MsdlNTD'
+Traceback (most recent call last):
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/router.py", line 469, in _get
+    raise NotFound("Requested URL {} not found".format(url))
+sanic.exceptions.NotFound: Requested URL /socket.io/ not found
+2019-10-07 15:41:21,965 [ERROR]  Exception occurred while handling uri: 'http://localhost:5500/socket.io/?EIO=3&transport=polling&t=MsdlPAZ'
+Traceback (most recent call last):
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/router.py", line 469, in _get
+    raise NotFound("Requested URL {} not found".format(url))
+sanic.exceptions.NotFound: Requested URL /socket.io/ not found
+2019-10-07 15:41:28,006 [ERROR]  Exception occurred while handling uri: 'http://localhost:5500/socket.io/?EIO=3&transport=polling&t=MsdlQew'
+Traceback (most recent call last):
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/router.py", line 469, in _get
+    raise NotFound("Requested URL {} not found".format(url))
+sanic.exceptions.NotFound: Requested URL /socket.io/ not found
+2019-10-07 15:41:29,864 [ERROR]  Exception occurred while handling uri: 'http://localhost:5500/socket.io/?EIO=3&transport=polling&t=MsdlR67'
+Traceback (most recent call last):
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/router.py", line 469, in _get
+    raise NotFound("Requested URL {} not found".format(url))
+sanic.exceptions.NotFound: Requested URL /socket.io/ not found
+2019-10-07 15:41:31,056 [ERROR]  Exception occurred while handling uri: 'http://localhost:5500/socket.io/?EIO=3&transport=polling&t=MsdlROf'
+Traceback (most recent call last):
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/router.py", line 469, in _get
+    raise NotFound("Requested URL {} not found".format(url))
+sanic.exceptions.NotFound: Requested URL /socket.io/ not found
+2019-10-07 15:41:32,826 [ERROR]  Exception occurred while handling uri: 'http://localhost:5500/socket.io/?EIO=3&transport=polling&t=MsdlRqJ'
+Traceback (most recent call last):
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/router.py", line 469, in _get
+    raise NotFound("Requested URL {} not found".format(url))
+sanic.exceptions.NotFound: Requested URL /socket.io/ not found
+2019-10-07 15:41:37,867 [ERROR]  Exception occurred while handling uri: 'http://localhost:5500/socket.io/?EIO=3&transport=polling&t=MsdlT32'
+Traceback (most recent call last):
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/router.py", line 469, in _get
+    raise NotFound("Requested URL {} not found".format(url))
+sanic.exceptions.NotFound: Requested URL /socket.io/ not found
+2019-10-07 15:41:42,919 [ERROR]  Exception occurred while handling uri: 'http://localhost:5500/socket.io/?EIO=3&transport=polling&t=MsdlUI0'
+Traceback (most recent call last):
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/router.py", line 469, in _get
+    raise NotFound("Requested URL {} not found".format(url))
+sanic.exceptions.NotFound: Requested URL /socket.io/ not found
+2019-10-07 15:41:48,007 [ERROR]  Exception occurred while handling uri: 'http://localhost:5500/socket.io/?EIO=3&transport=polling&t=MsdlVXa'
+Traceback (most recent call last):
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/router.py", line 469, in _get
+    raise NotFound("Requested URL {} not found".format(url))
+sanic.exceptions.NotFound: Requested URL /socket.io/ not found
+2019-10-07 15:41:53,027 [ERROR]  Exception occurred while handling uri: 'http://localhost:5500/socket.io/?EIO=3&transport=polling&t=MsdlWlu'
+Traceback (most recent call last):
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/router.py", line 469, in _get
+    raise NotFound("Requested URL {} not found".format(url))
+sanic.exceptions.NotFound: Requested URL /socket.io/ not found
+2019-10-07 15:41:58,070 [ERROR]  Exception occurred while handling uri: 'http://localhost:5500/socket.io/?EIO=3&transport=polling&t=MsdlX-o'
+Traceback (most recent call last):
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/router.py", line 469, in _get
+    raise NotFound("Requested URL {} not found".format(url))
+sanic.exceptions.NotFound: Requested URL /socket.io/ not found
+2019-10-07 15:42:03,098 [ERROR]  Exception occurred while handling uri: 'http://localhost:5500/socket.io/?EIO=3&transport=polling&t=MsdlZDI'
+Traceback (most recent call last):
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/router.py", line 469, in _get
+    raise NotFound("Requested URL {} not found".format(url))
+sanic.exceptions.NotFound: Requested URL /socket.io/ not found
+2019-10-07 15:42:08,152 [ERROR]  Exception occurred while handling uri: 'http://localhost:5500/socket.io/?EIO=3&transport=polling&t=MsdlaSF'
+Traceback (most recent call last):
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/router.py", line 469, in _get
+    raise NotFound("Requested URL {} not found".format(url))
+sanic.exceptions.NotFound: Requested URL /socket.io/ not found
+2019-10-07 15:42:09,164 [ERROR]  Exception occurred while handling uri: 'http://localhost:5500/socketio/?EIO=3&transport=polling&t=MsdlaiA'
+Traceback (most recent call last):
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/router.py", line 469, in _get
+    raise NotFound("Requested URL {} not found".format(url))
+sanic.exceptions.NotFound: Requested URL /socketio/ not found
+2019-10-07 15:42:10,190 [ERROR]  Exception occurred while handling uri: 'http://localhost:5500/socketio/?EIO=3&transport=polling&t=Msdlay6'
+Traceback (most recent call last):
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/router.py", line 469, in _get
+    raise NotFound("Requested URL {} not found".format(url))
+sanic.exceptions.NotFound: Requested URL /socketio/ not found
+2019-10-07 15:42:12,800 [ERROR]  Exception occurred while handling uri: 'http://localhost:5500/socketio/?EIO=3&transport=polling&t=Msdlbaw'
+Traceback (most recent call last):
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/router.py", line 469, in _get
+    raise NotFound("Requested URL {} not found".format(url))
+sanic.exceptions.NotFound: Requested URL /socketio/ not found
+2019-10-07 15:42:14,456 [ERROR]  Exception occurred while handling uri: 'http://localhost:5500/socketio/?EIO=3&transport=polling&t=Msdlb-s'
+Traceback (most recent call last):
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/router.py", line 469, in _get
+    raise NotFound("Requested URL {} not found".format(url))
+sanic.exceptions.NotFound: Requested URL /socketio/ not found
+2019-10-07 15:42:15,970 [ERROR]  Exception occurred while handling uri: 'http://localhost:5500/socketio/?EIO=3&transport=polling&t=MsdlcMR'
+Traceback (most recent call last):
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/router.py", line 469, in _get
+    raise NotFound("Requested URL {} not found".format(url))
+sanic.exceptions.NotFound: Requested URL /socketio/ not found
+2019-10-07 15:42:18,325 [ERROR]  Exception occurred while handling uri: 'http://localhost:5500/socketio/?EIO=3&transport=polling&t=MsdlcxC'
+Traceback (most recent call last):
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/router.py", line 469, in _get
+    raise NotFound("Requested URL {} not found".format(url))
+sanic.exceptions.NotFound: Requested URL /socketio/ not found
+2019-10-07 15:42:22,652 [ERROR]  Exception occurred while handling uri: 'http://localhost:5500/socketio/?EIO=3&transport=polling&t=Msdld-o'
+Traceback (most recent call last):
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/router.py", line 469, in _get
+    raise NotFound("Requested URL {} not found".format(url))
+sanic.exceptions.NotFound: Requested URL /socketio/ not found
+2019-10-07 15:42:27,709 [ERROR]  Exception occurred while handling uri: 'http://localhost:5500/socketio/?EIO=3&transport=polling&t=MsdlfDq'
+Traceback (most recent call last):
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/router.py", line 469, in _get
+    raise NotFound("Requested URL {} not found".format(url))
+sanic.exceptions.NotFound: Requested URL /socketio/ not found
+2019-10-07 15:42:32,766 [ERROR]  Exception occurred while handling uri: 'http://localhost:5500/socketio/?EIO=3&transport=polling&t=MsdlgSr'
+Traceback (most recent call last):
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/router.py", line 469, in _get
+    raise NotFound("Requested URL {} not found".format(url))
+sanic.exceptions.NotFound: Requested URL /socketio/ not found
+2019-10-07 15:42:37,803 [ERROR]  Exception occurred while handling uri: 'http://localhost:5500/socketio/?EIO=3&transport=polling&t=MsdlhhY'
+Traceback (most recent call last):
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/router.py", line 469, in _get
+    raise NotFound("Requested URL {} not found".format(url))
+sanic.exceptions.NotFound: Requested URL /socketio/ not found
+2019-10-07 15:42:42,980 [ERROR]  Exception occurred while handling uri: 'http://localhost:5500/socketio/?EIO=3&transport=polling&t=MsdliyB'
+Traceback (most recent call last):
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/router.py", line 469, in _get
+    raise NotFound("Requested URL {} not found".format(url))
+sanic.exceptions.NotFound: Requested URL /socketio/ not found
+2019-10-07 15:42:48,966 [ERROR]  Exception occurred while handling uri: 'http://localhost:5500/socketio/?EIO=3&transport=polling&t=MsdlkPz'
+Traceback (most recent call last):
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/router.py", line 469, in _get
+    raise NotFound("Requested URL {} not found".format(url))
+sanic.exceptions.NotFound: Requested URL /socketio/ not found
+2019-10-07 15:42:55,967 [ERROR]  Exception occurred while handling uri: 'http://localhost:5500/socketio/?EIO=3&transport=polling&t=Msdlm7I'
+Traceback (most recent call last):
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/router.py", line 469, in _get
+    raise NotFound("Requested URL {} not found".format(url))
+sanic.exceptions.NotFound: Requested URL /socketio/ not found
+2019-10-07 15:43:02,964 [ERROR]  Exception occurred while handling uri: 'http://localhost:5500/socketio/?EIO=3&transport=polling&t=Msdlnqg'
+Traceback (most recent call last):
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/router.py", line 469, in _get
+    raise NotFound("Requested URL {} not found".format(url))
+sanic.exceptions.NotFound: Requested URL /socketio/ not found
+2019-10-07 15:43:09,968 [ERROR]  Exception occurred while handling uri: 'http://localhost:5500/socketio/?EIO=3&transport=polling&t=MsdlpY3'
+Traceback (most recent call last):
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/router.py", line 469, in _get
+    raise NotFound("Requested URL {} not found".format(url))
+sanic.exceptions.NotFound: Requested URL /socketio/ not found
+2019-10-07 15:43:16,964 [ERROR]  Exception occurred while handling uri: 'http://localhost:5500/socketio/?EIO=3&transport=polling&t=MsdlrFQ'
+Traceback (most recent call last):
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/router.py", line 469, in _get
+    raise NotFound("Requested URL {} not found".format(url))
+sanic.exceptions.NotFound: Requested URL /socketio/ not found
+2019-10-07 15:43:23,966 [ERROR]  Exception occurred while handling uri: 'http://localhost:5500/socketio/?EIO=3&transport=polling&t=Msdlsyq'
+Traceback (most recent call last):
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/router.py", line 469, in _get
+    raise NotFound("Requested URL {} not found".format(url))
+sanic.exceptions.NotFound: Requested URL /socketio/ not found
+2019-10-07 15:43:30,967 [ERROR]  Exception occurred while handling uri: 'http://localhost:5500/socketio/?EIO=3&transport=polling&t=MsdlugA'
+Traceback (most recent call last):
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/router.py", line 469, in _get
+    raise NotFound("Requested URL {} not found".format(url))
+sanic.exceptions.NotFound: Requested URL /socketio/ not found
+2019-10-07 15:43:37,966 [ERROR]  Exception occurred while handling uri: 'http://localhost:5500/socketio/?EIO=3&transport=polling&t=MsdlwNZ'
+Traceback (most recent call last):
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/router.py", line 469, in _get
+    raise NotFound("Requested URL {} not found".format(url))
+sanic.exceptions.NotFound: Requested URL /socketio/ not found
+2019-10-07 15:43:44,976 [ERROR]  Exception occurred while handling uri: 'http://localhost:5500/socketio/?EIO=3&transport=polling&t=Msdly4x'
+Traceback (most recent call last):
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/router.py", line 469, in _get
+    raise NotFound("Requested URL {} not found".format(url))
+sanic.exceptions.NotFound: Requested URL /socketio/ not found
+2019-10-07 15:43:51,955 [ERROR]  Exception occurred while handling uri: 'http://localhost:5500/socketio/?EIO=3&transport=polling&t=MsdlzoH'
+Traceback (most recent call last):
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/router.py", line 469, in _get
+    raise NotFound("Requested URL {} not found".format(url))
+sanic.exceptions.NotFound: Requested URL /socketio/ not found
+2019-10-07 15:43:58,965 [ERROR]  Exception occurred while handling uri: 'http://localhost:5500/socketio/?EIO=3&transport=polling&t=Msdl_Vi'
+Traceback (most recent call last):
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/router.py", line 469, in _get
+    raise NotFound("Requested URL {} not found".format(url))
+sanic.exceptions.NotFound: Requested URL /socketio/ not found
+2019-10-07 15:44:05,963 [ERROR]  Exception occurred while handling uri: 'http://localhost:5500/socketio/?EIO=3&transport=polling&t=Msdm1D2'
+Traceback (most recent call last):
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/router.py", line 469, in _get
+    raise NotFound("Requested URL {} not found".format(url))
+sanic.exceptions.NotFound: Requested URL /socketio/ not found
+2019-10-07 15:44:12,973 [ERROR]  Exception occurred while handling uri: 'http://localhost:5500/socketio/?EIO=3&transport=polling&t=Msdm2wT'
+Traceback (most recent call last):
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/router.py", line 469, in _get
+    raise NotFound("Requested URL {} not found".format(url))
+sanic.exceptions.NotFound: Requested URL /socketio/ not found
+2019-10-07 15:44:19,966 [ERROR]  Exception occurred while handling uri: 'http://localhost:5500/socketio/?EIO=3&transport=polling&t=Msdm4do'
+Traceback (most recent call last):
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/router.py", line 469, in _get
+    raise NotFound("Requested URL {} not found".format(url))
+sanic.exceptions.NotFound: Requested URL /socketio/ not found
+2019-10-07 15:44:26,974 [ERROR]  Exception occurred while handling uri: 'http://localhost:5500/socketio/?EIO=3&transport=polling&t=Msdm6LC'
+Traceback (most recent call last):
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/router.py", line 469, in _get
+    raise NotFound("Requested URL {} not found".format(url))
+sanic.exceptions.NotFound: Requested URL /socketio/ not found
+2019-10-07 15:44:33,963 [ERROR]  Exception occurred while handling uri: 'http://localhost:5500/socketio/?EIO=3&transport=polling&t=Msdm82Y'
+Traceback (most recent call last):
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/router.py", line 469, in _get
+    raise NotFound("Requested URL {} not found".format(url))
+sanic.exceptions.NotFound: Requested URL /socketio/ not found
+2019-10-07 15:44:40,957 [ERROR]  Exception occurred while handling uri: 'http://localhost:5500/socketio/?EIO=3&transport=polling&t=Msdm9lv'
+Traceback (most recent call last):
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/router.py", line 469, in _get
+    raise NotFound("Requested URL {} not found".format(url))
+sanic.exceptions.NotFound: Requested URL /socketio/ not found
+2019-10-07 15:44:47,964 [ERROR]  Exception occurred while handling uri: 'http://localhost:5500/socketio/?EIO=3&transport=polling&t=MsdmBTJ'
+Traceback (most recent call last):
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/router.py", line 469, in _get
+    raise NotFound("Requested URL {} not found".format(url))
+sanic.exceptions.NotFound: Requested URL /socketio/ not found
+2019-10-07 15:44:54,968 [ERROR]  Exception occurred while handling uri: 'http://localhost:5500/socketio/?EIO=3&transport=polling&t=MsdmDAi'
+Traceback (most recent call last):
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/router.py", line 469, in _get
+    raise NotFound("Requested URL {} not found".format(url))
+sanic.exceptions.NotFound: Requested URL /socketio/ not found
+2019-10-07 15:45:01,963 [ERROR]  Exception occurred while handling uri: 'http://localhost:5500/socketio/?EIO=3&transport=polling&t=MsdmEu2'
+Traceback (most recent call last):
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/router.py", line 469, in _get
+    raise NotFound("Requested URL {} not found".format(url))
+sanic.exceptions.NotFound: Requested URL /socketio/ not found
+2019-10-07 15:45:08,967 [ERROR]  Exception occurred while handling uri: 'http://localhost:5500/socketio/?EIO=3&transport=polling&t=MsdmGbQ'
+Traceback (most recent call last):
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/router.py", line 469, in _get
+    raise NotFound("Requested URL {} not found".format(url))
+sanic.exceptions.NotFound: Requested URL /socketio/ not found
+2019-10-07 15:45:15,969 [ERROR]  Exception occurred while handling uri: 'http://localhost:5500/socketio/?EIO=3&transport=polling&t=MsdmIIs'
+Traceback (most recent call last):
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/router.py", line 469, in _get
+    raise NotFound("Requested URL {} not found".format(url))
+sanic.exceptions.NotFound: Requested URL /socketio/ not found
+2019-10-07 15:45:22,970 [ERROR]  Exception occurred while handling uri: 'http://localhost:5500/socketio/?EIO=3&transport=polling&t=MsdmK0C'
+Traceback (most recent call last):
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/router.py", line 469, in _get
+    raise NotFound("Requested URL {} not found".format(url))
+sanic.exceptions.NotFound: Requested URL /socketio/ not found
+2019-10-07 15:45:29,965 [ERROR]  Exception occurred while handling uri: 'http://localhost:5500/socketio/?EIO=3&transport=polling&t=MsdmLjZ'
+Traceback (most recent call last):
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/router.py", line 469, in _get
+    raise NotFound("Requested URL {} not found".format(url))
+sanic.exceptions.NotFound: Requested URL /socketio/ not found
+2019-10-07 15:45:36,968 [ERROR]  Exception occurred while handling uri: 'http://localhost:5500/socketio/?EIO=3&transport=polling&t=MsdmNQx'
+Traceback (most recent call last):
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/router.py", line 469, in _get
+    raise NotFound("Requested URL {} not found".format(url))
+sanic.exceptions.NotFound: Requested URL /socketio/ not found
+2019-10-07 15:45:43,966 [ERROR]  Exception occurred while handling uri: 'http://localhost:5500/socketio/?EIO=3&transport=polling&t=MsdmP8J'
+Traceback (most recent call last):
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/router.py", line 469, in _get
+    raise NotFound("Requested URL {} not found".format(url))
+sanic.exceptions.NotFound: Requested URL /socketio/ not found
+2019-10-07 15:45:50,964 [ERROR]  Exception occurred while handling uri: 'http://localhost:5500/socketio/?EIO=3&transport=polling&t=MsdmQrg'
+Traceback (most recent call last):
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/router.py", line 469, in _get
+    raise NotFound("Requested URL {} not found".format(url))
+sanic.exceptions.NotFound: Requested URL /socketio/ not found
+2019-10-07 15:45:57,964 [ERROR]  Exception occurred while handling uri: 'http://localhost:5500/socketio/?EIO=3&transport=polling&t=MsdmSZ3'
+Traceback (most recent call last):
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/router.py", line 469, in _get
+    raise NotFound("Requested URL {} not found".format(url))
+sanic.exceptions.NotFound: Requested URL /socketio/ not found
+2019-10-07 15:46:04,965 [ERROR]  Exception occurred while handling uri: 'http://localhost:5500/socketio/?EIO=3&transport=polling&t=MsdmUGR'
+Traceback (most recent call last):
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/router.py", line 469, in _get
+    raise NotFound("Requested URL {} not found".format(url))
+sanic.exceptions.NotFound: Requested URL /socketio/ not found
+2019-10-07 15:46:09,508 [ERROR]  Experienced exception while trying to serve
+Traceback (most recent call last):
+  File "/home/erick-ribeiro/.local/lib/python3.6/site-packages/tensorflow/python/framework/ops.py", line 2409, in get_attr
+    c_api.TF_OperationGetAttrValueProto(self._c_op, name, buf)
+tensorflow.python.framework.errors_impl.InvalidArgumentError: Operation 'lstm/while/clip_by_value' has no attr named '_XlaCompile'.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/erick-ribeiro/.local/lib/python3.6/site-packages/tensorflow/python/ops/gradients_impl.py", line 415, in _MaybeCompile
+    xla_compile = op.get_attr("_XlaCompile")
+  File "/home/erick-ribeiro/.local/lib/python3.6/site-packages/tensorflow/python/framework/ops.py", line 2413, in get_attr
+    raise ValueError(str(e))
+ValueError: Operation 'lstm/while/clip_by_value' has no attr named '_XlaCompile'.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/app.py", line 1096, in run
+    serve(**server_settings)
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/server.py", line 742, in serve
+    trigger_events(before_start, loop)
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/server.py", line 604, in trigger_events
+    loop.run_until_complete(result)
+  File "uvloop/loop.pyx", line 1445, in uvloop.loop.Loop.run_until_complete
+  File "uvloop/loop.pyx", line 1438, in uvloop.loop.Loop.run_until_complete
+  File "uvloop/loop.pyx", line 1347, in uvloop.loop.Loop.run_forever
+  File "uvloop/loop.pyx", line 487, in uvloop.loop.Loop._run
+  File "uvloop/loop.pyx", line 404, in uvloop.loop.Loop._on_idle
+  File "uvloop/cbhandles.pyx", line 66, in uvloop.loop.Handle._run
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/rasa/core/run.py", line 218, in load_agent_on_start
+    action_endpoint=endpoints.action,
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/rasa/core/agent.py", line 262, in load_agent
+    remote_storage=remote_storage,
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/rasa/core/agent.py", line 892, in load_local_model
+    remote_storage=remote_storage,
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/rasa/core/agent.py", line 378, in load
+    ensemble = PolicyEnsemble.load(core_model) if core_model else None
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/rasa/core/policies/ensemble.py", line 232, in load
+    policy = policy_cls.load(policy_path)
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/rasa/core/policies/keras_policy.py", line 320, in load
+    model = load_model(model_file)
+  File "/home/erick-ribeiro/.local/lib/python3.6/site-packages/tensorflow/python/keras/engine/saving.py", line 275, in load_model
+    model._make_train_function()
+  File "/home/erick-ribeiro/.local/lib/python3.6/site-packages/tensorflow/python/keras/engine/training.py", line 1919, in _make_train_function
+    [self.total_loss] + metrics_tensors)
+  File "/home/erick-ribeiro/.local/lib/python3.6/site-packages/tensorflow/python/keras/engine/training.py", line 1895, in _make_train_function_helper
+    params=self._collected_trainable_weights, loss=self.total_loss)
+  File "/home/erick-ribeiro/.local/lib/python3.6/site-packages/tensorflow/python/keras/optimizers.py", line 259, in get_updates
+    grads = self.get_gradients(loss, params)
+  File "/home/erick-ribeiro/.local/lib/python3.6/site-packages/tensorflow/python/keras/optimizers.py", line 93, in get_gradients
+    grads = K.gradients(loss, params)
+  File "/home/erick-ribeiro/.local/lib/python3.6/site-packages/tensorflow/python/keras/backend.py", line 3216, in gradients
+    loss, variables, colocate_gradients_with_ops=True)
+  File "/home/erick-ribeiro/.local/lib/python3.6/site-packages/tensorflow/python/ops/gradients_impl.py", line 664, in gradients
+    unconnected_gradients)
+  File "/home/erick-ribeiro/.local/lib/python3.6/site-packages/tensorflow/python/ops/gradients_impl.py", line 965, in _GradientsHelper
+    lambda: grad_fn(op, *out_grads))
+  File "/home/erick-ribeiro/.local/lib/python3.6/site-packages/tensorflow/python/ops/gradients_impl.py", line 420, in _MaybeCompile
+    return grad_fn()  # Exit early
+  File "/home/erick-ribeiro/.local/lib/python3.6/site-packages/tensorflow/python/ops/gradients_impl.py", line 965, in <lambda>
+    lambda: grad_fn(op, *out_grads))
+  File "/home/erick-ribeiro/.local/lib/python3.6/site-packages/tensorflow/python/ops/math_grad.py", line 1075, in _MaximumGrad
+    return _MaximumMinimumGrad(op, grad, math_ops.greater_equal)
+  File "/home/erick-ribeiro/.local/lib/python3.6/site-packages/tensorflow/python/ops/math_grad.py", line 1067, in _MaximumMinimumGrad
+    gx = array_ops.reshape(math_ops.reduce_sum(xgrad, rx), sx)
+  File "/home/erick-ribeiro/.local/lib/python3.6/site-packages/tensorflow/python/ops/gen_array_ops.py", line 7179, in reshape
+    "Reshape", tensor=tensor, shape=shape, name=name)
+  File "/home/erick-ribeiro/.local/lib/python3.6/site-packages/tensorflow/python/framework/op_def_library.py", line 788, in _apply_op_helper
+    op_def=op_def)
+  File "/home/erick-ribeiro/.local/lib/python3.6/site-packages/tensorflow/python/util/deprecation.py", line 482, in new_func
+    if (spec.position < len(args) and
+KeyboardInterrupt
+2019-10-07 15:46:18,963 [ERROR]  Exception occurred while handling uri: 'http://localhost:5500/socketio/?EIO=3&transport=polling&t=MsdmXhD'
+Traceback (most recent call last):
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/router.py", line 469, in _get
+    raise NotFound("Requested URL {} not found".format(url))
+sanic.exceptions.NotFound: Requested URL /socketio/ not found
+2019-10-07 15:46:25,964 [ERROR]  Exception occurred while handling uri: 'http://localhost:5500/socketio/?EIO=3&transport=polling&t=MsdmZOY'
+Traceback (most recent call last):
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/router.py", line 469, in _get
+    raise NotFound("Requested URL {} not found".format(url))
+sanic.exceptions.NotFound: Requested URL /socketio/ not found
+2019-10-07 15:46:32,964 [ERROR]  Exception occurred while handling uri: 'http://localhost:5500/socketio/?EIO=3&transport=polling&t=Msdmb5y'
+Traceback (most recent call last):
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/router.py", line 469, in _get
+    raise NotFound("Requested URL {} not found".format(url))
+sanic.exceptions.NotFound: Requested URL /socketio/ not found
+2019-10-07 15:46:39,973 [ERROR]  Exception occurred while handling uri: 'http://localhost:5500/socketio/?EIO=3&transport=polling&t=MsdmcpK'
+Traceback (most recent call last):
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/router.py", line 469, in _get
+    raise NotFound("Requested URL {} not found".format(url))
+sanic.exceptions.NotFound: Requested URL /socketio/ not found
+2019-10-07 15:46:44,644 [ERROR]  Experienced exception while trying to serve
+Traceback (most recent call last):
+  File "/home/erick-ribeiro/.local/lib/python3.6/site-packages/tensorflow/python/framework/ops.py", line 2409, in get_attr
+    c_api.TF_OperationGetAttrValueProto(self._c_op, name, buf)
+tensorflow.python.framework.errors_impl.InvalidArgumentError: Operation 'lstm/while/mul_7' has no attr named '_XlaCompile'.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/erick-ribeiro/.local/lib/python3.6/site-packages/tensorflow/python/ops/gradients_impl.py", line 415, in _MaybeCompile
+    xla_compile = op.get_attr("_XlaCompile")
+  File "/home/erick-ribeiro/.local/lib/python3.6/site-packages/tensorflow/python/framework/ops.py", line 2413, in get_attr
+    raise ValueError(str(e))
+ValueError: Operation 'lstm/while/mul_7' has no attr named '_XlaCompile'.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/app.py", line 1096, in run
+    serve(**server_settings)
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/server.py", line 742, in serve
+    trigger_events(before_start, loop)
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/server.py", line 604, in trigger_events
+    loop.run_until_complete(result)
+  File "uvloop/loop.pyx", line 1445, in uvloop.loop.Loop.run_until_complete
+  File "uvloop/loop.pyx", line 1438, in uvloop.loop.Loop.run_until_complete
+  File "uvloop/loop.pyx", line 1347, in uvloop.loop.Loop.run_forever
+  File "uvloop/loop.pyx", line 487, in uvloop.loop.Loop._run
+  File "uvloop/loop.pyx", line 404, in uvloop.loop.Loop._on_idle
+  File "uvloop/cbhandles.pyx", line 66, in uvloop.loop.Handle._run
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/rasa/core/run.py", line 218, in load_agent_on_start
+    action_endpoint=endpoints.action,
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/rasa/core/agent.py", line 262, in load_agent
+    remote_storage=remote_storage,
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/rasa/core/agent.py", line 892, in load_local_model
+    remote_storage=remote_storage,
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/rasa/core/agent.py", line 378, in load
+    ensemble = PolicyEnsemble.load(core_model) if core_model else None
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/rasa/core/policies/ensemble.py", line 232, in load
+    policy = policy_cls.load(policy_path)
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/rasa/core/policies/keras_policy.py", line 320, in load
+    model = load_model(model_file)
+  File "/home/erick-ribeiro/.local/lib/python3.6/site-packages/tensorflow/python/keras/engine/saving.py", line 275, in load_model
+    model._make_train_function()
+  File "/home/erick-ribeiro/.local/lib/python3.6/site-packages/tensorflow/python/keras/engine/training.py", line 1919, in _make_train_function
+    [self.total_loss] + metrics_tensors)
+  File "/home/erick-ribeiro/.local/lib/python3.6/site-packages/tensorflow/python/keras/engine/training.py", line 1895, in _make_train_function_helper
+    params=self._collected_trainable_weights, loss=self.total_loss)
+  File "/home/erick-ribeiro/.local/lib/python3.6/site-packages/tensorflow/python/keras/optimizers.py", line 259, in get_updates
+    grads = self.get_gradients(loss, params)
+  File "/home/erick-ribeiro/.local/lib/python3.6/site-packages/tensorflow/python/keras/optimizers.py", line 93, in get_gradients
+    grads = K.gradients(loss, params)
+  File "/home/erick-ribeiro/.local/lib/python3.6/site-packages/tensorflow/python/keras/backend.py", line 3216, in gradients
+    loss, variables, colocate_gradients_with_ops=True)
+  File "/home/erick-ribeiro/.local/lib/python3.6/site-packages/tensorflow/python/ops/gradients_impl.py", line 664, in gradients
+    unconnected_gradients)
+  File "/home/erick-ribeiro/.local/lib/python3.6/site-packages/tensorflow/python/ops/gradients_impl.py", line 965, in _GradientsHelper
+    lambda: grad_fn(op, *out_grads))
+  File "/home/erick-ribeiro/.local/lib/python3.6/site-packages/tensorflow/python/ops/gradients_impl.py", line 420, in _MaybeCompile
+    return grad_fn()  # Exit early
+  File "/home/erick-ribeiro/.local/lib/python3.6/site-packages/tensorflow/python/ops/gradients_impl.py", line 965, in <lambda>
+    lambda: grad_fn(op, *out_grads))
+  File "/home/erick-ribeiro/.local/lib/python3.6/site-packages/tensorflow/python/ops/math_grad.py", line 940, in _MulGrad
+    rx, ry = gen_array_ops.broadcast_gradient_args(sx, sy)
+  File "/home/erick-ribeiro/.local/lib/python3.6/site-packages/tensorflow/python/ops/gen_array_ops.py", line 750, in broadcast_gradient_args
+    "BroadcastGradientArgs", s0=s0, s1=s1, name=name)
+  File "/home/erick-ribeiro/.local/lib/python3.6/site-packages/tensorflow/python/framework/op_def_library.py", line 788, in _apply_op_helper
+    op_def=op_def)
+  File "/home/erick-ribeiro/.local/lib/python3.6/site-packages/tensorflow/python/util/deprecation.py", line 507, in new_func
+    return func(*args, **kwargs)
+  File "/home/erick-ribeiro/.local/lib/python3.6/site-packages/tensorflow/python/framework/ops.py", line 3300, in create_op
+    op_def=op_def)
+  File "/home/erick-ribeiro/.local/lib/python3.6/site-packages/tensorflow/python/framework/ops.py", line 1838, in __init__
+    self._control_flow_post_processing()
+  File "/home/erick-ribeiro/.local/lib/python3.6/site-packages/tensorflow/python/framework/ops.py", line 1849, in _control_flow_post_processing
+    self._control_flow_context.AddOp(self)
+  File "/home/erick-ribeiro/.local/lib/python3.6/site-packages/tensorflow/python/ops/control_flow_ops.py", line 2561, in AddOp
+    self._AddOpInternal(op)
+  File "/home/erick-ribeiro/.local/lib/python3.6/site-packages/tensorflow/python/ops/control_flow_ops.py", line 2582, in _AddOpInternal
+    real_x = self.AddValue(x)
+  File "/home/erick-ribeiro/.local/lib/python3.6/site-packages/tensorflow/python/ops/control_flow_ops.py", line 2514, in AddValue
+    real_val = grad_ctxt.grad_state.GetRealValue(val)
+  File "/home/erick-ribeiro/.local/lib/python3.6/site-packages/tensorflow/python/ops/control_flow_ops.py", line 1146, in GetRealValue
+    history_value = cur_grad_state.AddForwardAccumulator(cur_value)
+  File "/home/erick-ribeiro/.local/lib/python3.6/site-packages/tensorflow/python/ops/control_flow_ops.py", line 1027, in AddForwardAccumulator
+    enter_acc, value, swap_memory=swap_enabled)
+  File "/home/erick-ribeiro/.local/lib/python3.6/site-packages/tensorflow/python/ops/gen_data_flow_ops.py", line 5189, in stack_push_v2
+    name=name)
+  File "/home/erick-ribeiro/.local/lib/python3.6/site-packages/tensorflow/python/framework/op_def_library.py", line 788, in _apply_op_helper
+    op_def=op_def)
+  File "/home/erick-ribeiro/.local/lib/python3.6/site-packages/tensorflow/python/util/deprecation.py", line 507, in new_func
+    return func(*args, **kwargs)
+  File "/home/erick-ribeiro/.local/lib/python3.6/site-packages/tensorflow/python/framework/ops.py", line 3300, in create_op
+    op_def=op_def)
+  File "/home/erick-ribeiro/.local/lib/python3.6/site-packages/tensorflow/python/framework/ops.py", line 1838, in __init__
+    self._control_flow_post_processing()
+  File "/home/erick-ribeiro/.local/lib/python3.6/site-packages/tensorflow/python/framework/ops.py", line 1847, in _control_flow_post_processing
+    control_flow_util.CheckInputFromValidContext(self, input_tensor.op)
+  File "/home/erick-ribeiro/.local/lib/python3.6/site-packages/tensorflow/python/ops/control_flow_util.py", line 253, in CheckInputFromValidContext
+    input_ctxt = GetOutputContext(input_op)
+  File "/home/erick-ribeiro/.local/lib/python3.6/site-packages/tensorflow/python/ops/control_flow_util.py", line 158, in GetOutputContext
+    if ctxt is not None and IsLoopExit(op):
+  File "/home/erick-ribeiro/.local/lib/python3.6/site-packages/tensorflow/python/ops/control_flow_util.py", line 81, in IsLoopExit
+    return op.type == "Exit" or op.type == "RefExit"
+  File "/home/erick-ribeiro/.local/lib/python3.6/site-packages/tensorflow/python/framework/ops.py", line 2299, in type
+    return c_api.TF_OperationOpType(self._c_op)
+KeyboardInterrupt
+2019-10-07 15:46:51,731 [DEBUG]  Available web server routes: 
+/conversations/<conversation_id>/messages          POST                           add_message
+/conversations/<conversation_id>/tracker/events    POST                           append_events
+/webhooks/rasa                                     GET                            custom_webhook_RasaChatInput.health
+/webhooks/rasa/webhook                             POST                           custom_webhook_RasaChatInput.receive
+/webhooks/rest                                     GET                            custom_webhook_RestInput.health
+/webhooks/rest/webhook                             POST                           custom_webhook_RestInput.receive
+/model/test/intents                                POST                           evaluate_intents
+/model/test/stories                                POST                           evaluate_stories
+/conversations/<conversation_id>/execute           POST                           execute_action
+/domain                                            GET                            get_domain
+/socket.io                                         POST                           handle_request
+/                                                  GET                            hello
+/model                                             PUT                            load_model
+/model/parse                                       POST                           parse
+/conversations/<conversation_id>/predict           POST                           predict
+/conversations/<conversation_id>/tracker/events    PUT                            replace_events
+/conversations/<conversation_id>/story             GET                            retrieve_story
+/conversations/<conversation_id>/tracker           GET                            retrieve_tracker
+/webhooks/socketio                                 GET                            socketio_webhook.health
+/status                                            GET                            status
+/model/predict                                     POST                           tracker_predict
+/model/train                                       POST                           train
+/model                                             DELETE                         unload_model
+/version                                           GET                            version
+2019-10-07 15:46:53,972 [ERROR]  Exception occurred while handling uri: 'http://localhost:5500/socketio/?EIO=3&transport=polling&t=MsdmgE4'
+Traceback (most recent call last):
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/router.py", line 469, in _get
+    raise NotFound("Requested URL {} not found".format(url))
+sanic.exceptions.NotFound: Requested URL /socketio/ not found
+2019-10-07 15:47:00,975 [ERROR]  Exception occurred while handling uri: 'http://localhost:5500/socketio/?EIO=3&transport=polling&t=MsdmhxQ'
+Traceback (most recent call last):
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/router.py", line 469, in _get
+    raise NotFound("Requested URL {} not found".format(url))
+sanic.exceptions.NotFound: Requested URL /socketio/ not found
+2019-10-07 15:47:07,977 [ERROR]  Exception occurred while handling uri: 'http://localhost:5500/socketio/?EIO=3&transport=polling&t=Msdmjeq'
+Traceback (most recent call last):
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/router.py", line 469, in _get
+    raise NotFound("Requested URL {} not found".format(url))
+sanic.exceptions.NotFound: Requested URL /socketio/ not found
+2019-10-07 15:47:14,980 [ERROR]  Exception occurred while handling uri: 'http://localhost:5500/socketio/?EIO=3&transport=polling&t=MsdmlMC'
+Traceback (most recent call last):
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/router.py", line 469, in _get
+    raise NotFound("Requested URL {} not found".format(url))
+sanic.exceptions.NotFound: Requested URL /socketio/ not found
+2019-10-07 15:47:20,962 [ERROR]  Exception occurred while handling uri: 'http://localhost:5500/socketio/?EIO=3&transport=polling&t=Msdmmp-'
+Traceback (most recent call last):
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/router.py", line 469, in _get
+    raise NotFound("Requested URL {} not found".format(url))
+sanic.exceptions.NotFound: Requested URL /socketio/ not found
+2019-10-07 15:47:25,985 [ERROR]  Exception occurred while handling uri: 'http://localhost:5500/socketio/?EIO=3&transport=polling&t=Msdmo2S'
+Traceback (most recent call last):
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/app.py", line 893, in handle_request
+    handler, args, kwargs, uri = self.router.get(request)
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/router.py", line 407, in get
+    return self._get(request.path, request.method, "")
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/router.py", line 469, in _get
+    raise NotFound("Requested URL {} not found".format(url))
+sanic.exceptions.NotFound: Requested URL /socketio/ not found
+2019-10-07 15:51:00,354 [DEBUG]  Available web server routes: 
+/conversations/<conversation_id>/messages          POST                           add_message
+/conversations/<conversation_id>/tracker/events    POST                           append_events
+/webhooks/rasa                                     GET                            custom_webhook_RasaChatInput.health
+/webhooks/rasa/webhook                             POST                           custom_webhook_RasaChatInput.receive
+/webhooks/rest                                     GET                            custom_webhook_RestInput.health
+/webhooks/rest/webhook                             POST                           custom_webhook_RestInput.receive
+/model/test/intents                                POST                           evaluate_intents
+/model/test/stories                                POST                           evaluate_stories
+/conversations/<conversation_id>/execute           POST                           execute_action
+/domain                                            GET                            get_domain
+/socket.io                                         POST                           handle_request
+/                                                  GET                            hello
+/model                                             PUT                            load_model
+/model/parse                                       POST                           parse
+/conversations/<conversation_id>/predict           POST                           predict
+/conversations/<conversation_id>/tracker/events    PUT                            replace_events
+/conversations/<conversation_id>/story             GET                            retrieve_story
+/conversations/<conversation_id>/tracker           GET                            retrieve_tracker
+/webhooks/socketio                                 GET                            socketio_webhook.health
+/status                                            GET                            status
+/model/predict                                     POST                           tracker_predict
+/model/train                                       POST                           train
+/model                                             DELETE                         unload_model
+/version                                           GET                            version
+2019-10-07 15:51:00,354 [DEBUG]  Available web server routes: 
+/conversations/<conversation_id>/messages          POST                           add_message
+/conversations/<conversation_id>/tracker/events    POST                           append_events
+/webhooks/rasa                                     GET                            custom_webhook_RasaChatInput.health
+/webhooks/rasa/webhook                             POST                           custom_webhook_RasaChatInput.receive
+/webhooks/rest                                     GET                            custom_webhook_RestInput.health
+/webhooks/rest/webhook                             POST                           custom_webhook_RestInput.receive
+/model/test/intents                                POST                           evaluate_intents
+/model/test/stories                                POST                           evaluate_stories
+/conversations/<conversation_id>/execute           POST                           execute_action
+/domain                                            GET                            get_domain
+/socket.io                                         POST                           handle_request
+/                                                  GET                            hello
+/model                                             PUT                            load_model
+/model/parse                                       POST                           parse
+/conversations/<conversation_id>/predict           POST                           predict
+/conversations/<conversation_id>/tracker/events    PUT                            replace_events
+/conversations/<conversation_id>/story             GET                            retrieve_story
+/conversations/<conversation_id>/tracker           GET                            retrieve_tracker
+/webhooks/socketio                                 GET                            socketio_webhook.health
+/status                                            GET                            status
+/model/predict                                     POST                           tracker_predict
+/model/train                                       POST                           train
+/model                                             DELETE                         unload_model
+/version                                           GET                            version
+2019-10-07 15:51:01,621 [ERROR]  Experienced exception while trying to serve
+Traceback (most recent call last):
+  File "/home/erick-ribeiro/.local/lib/python3.6/site-packages/tensorflow/python/framework/ops.py", line 2409, in get_attr
+    c_api.TF_OperationGetAttrValueProto(self._c_op, name, buf)
+tensorflow.python.framework.errors_impl.InvalidArgumentError: Operation 'lstm/while/MatMul_2' has no attr named '_XlaCompile'.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/erick-ribeiro/.local/lib/python3.6/site-packages/tensorflow/python/ops/gradients_impl.py", line 415, in _MaybeCompile
+    xla_compile = op.get_attr("_XlaCompile")
+  File "/home/erick-ribeiro/.local/lib/python3.6/site-packages/tensorflow/python/framework/ops.py", line 2413, in get_attr
+    raise ValueError(str(e))
+ValueError: Operation 'lstm/while/MatMul_2' has no attr named '_XlaCompile'.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/app.py", line 1096, in run
+    serve(**server_settings)
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/server.py", line 742, in serve
+    trigger_events(before_start, loop)
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/server.py", line 604, in trigger_events
+    loop.run_until_complete(result)
+  File "uvloop/loop.pyx", line 1445, in uvloop.loop.Loop.run_until_complete
+  File "uvloop/loop.pyx", line 1438, in uvloop.loop.Loop.run_until_complete
+  File "uvloop/loop.pyx", line 1347, in uvloop.loop.Loop.run_forever
+  File "uvloop/loop.pyx", line 487, in uvloop.loop.Loop._run
+  File "uvloop/loop.pyx", line 404, in uvloop.loop.Loop._on_idle
+  File "uvloop/cbhandles.pyx", line 66, in uvloop.loop.Handle._run
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/rasa/core/run.py", line 218, in load_agent_on_start
+    action_endpoint=endpoints.action,
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/rasa/core/agent.py", line 262, in load_agent
+    remote_storage=remote_storage,
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/rasa/core/agent.py", line 892, in load_local_model
+    remote_storage=remote_storage,
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/rasa/core/agent.py", line 378, in load
+    ensemble = PolicyEnsemble.load(core_model) if core_model else None
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/rasa/core/policies/ensemble.py", line 232, in load
+    policy = policy_cls.load(policy_path)
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/rasa/core/policies/keras_policy.py", line 320, in load
+    model = load_model(model_file)
+  File "/home/erick-ribeiro/.local/lib/python3.6/site-packages/tensorflow/python/keras/engine/saving.py", line 275, in load_model
+    model._make_train_function()
+  File "/home/erick-ribeiro/.local/lib/python3.6/site-packages/tensorflow/python/keras/engine/training.py", line 1919, in _make_train_function
+    [self.total_loss] + metrics_tensors)
+  File "/home/erick-ribeiro/.local/lib/python3.6/site-packages/tensorflow/python/keras/engine/training.py", line 1895, in _make_train_function_helper
+    params=self._collected_trainable_weights, loss=self.total_loss)
+  File "/home/erick-ribeiro/.local/lib/python3.6/site-packages/tensorflow/python/keras/optimizers.py", line 259, in get_updates
+    grads = self.get_gradients(loss, params)
+  File "/home/erick-ribeiro/.local/lib/python3.6/site-packages/tensorflow/python/keras/optimizers.py", line 93, in get_gradients
+    grads = K.gradients(loss, params)
+  File "/home/erick-ribeiro/.local/lib/python3.6/site-packages/tensorflow/python/keras/backend.py", line 3216, in gradients
+    loss, variables, colocate_gradients_with_ops=True)
+  File "/home/erick-ribeiro/.local/lib/python3.6/site-packages/tensorflow/python/ops/gradients_impl.py", line 664, in gradients
+    unconnected_gradients)
+  File "/home/erick-ribeiro/.local/lib/python3.6/site-packages/tensorflow/python/ops/gradients_impl.py", line 965, in _GradientsHelper
+    lambda: grad_fn(op, *out_grads))
+  File "/home/erick-ribeiro/.local/lib/python3.6/site-packages/tensorflow/python/ops/gradients_impl.py", line 420, in _MaybeCompile
+    return grad_fn()  # Exit early
+  File "/home/erick-ribeiro/.local/lib/python3.6/site-packages/tensorflow/python/ops/gradients_impl.py", line 965, in <lambda>
+    lambda: grad_fn(op, *out_grads))
+  File "/home/erick-ribeiro/.local/lib/python3.6/site-packages/tensorflow/python/ops/math_grad.py", line 1131, in _MatMulGrad
+    grad_a = gen_math_ops.mat_mul(grad, b, transpose_b=True)
+  File "/home/erick-ribeiro/.local/lib/python3.6/site-packages/tensorflow/python/ops/gen_math_ops.py", line 5333, in mat_mul
+    name=name)
+  File "/home/erick-ribeiro/.local/lib/python3.6/site-packages/tensorflow/python/framework/op_def_library.py", line 788, in _apply_op_helper
+    op_def=op_def)
+  File "/home/erick-ribeiro/.local/lib/python3.6/site-packages/tensorflow/python/util/deprecation.py", line 507, in new_func
+    return func(*args, **kwargs)
+  File "/home/erick-ribeiro/.local/lib/python3.6/site-packages/tensorflow/python/framework/ops.py", line 3300, in create_op
+    op_def=op_def)
+  File "/home/erick-ribeiro/.local/lib/python3.6/site-packages/tensorflow/python/framework/ops.py", line 1838, in __init__
+    self._control_flow_post_processing()
+  File "/home/erick-ribeiro/.local/lib/python3.6/site-packages/tensorflow/python/framework/ops.py", line 1849, in _control_flow_post_processing
+    self._control_flow_context.AddOp(self)
+  File "/home/erick-ribeiro/.local/lib/python3.6/site-packages/tensorflow/python/ops/control_flow_ops.py", line 2561, in AddOp
+    self._AddOpInternal(op)
+  File "/home/erick-ribeiro/.local/lib/python3.6/site-packages/tensorflow/python/ops/control_flow_ops.py", line 2582, in _AddOpInternal
+    real_x = self.AddValue(x)
+  File "/home/erick-ribeiro/.local/lib/python3.6/site-packages/tensorflow/python/ops/control_flow_ops.py", line 2514, in AddValue
+    real_val = grad_ctxt.grad_state.GetRealValue(val)
+  File "/home/erick-ribeiro/.local/lib/python3.6/site-packages/tensorflow/python/ops/control_flow_ops.py", line 1146, in GetRealValue
+    history_value = cur_grad_state.AddForwardAccumulator(cur_value)
+  File "/home/erick-ribeiro/.local/lib/python3.6/site-packages/tensorflow/python/ops/control_flow_ops.py", line 1013, in AddForwardAccumulator
+    max_size=max_size, elem_type=value.dtype.base_dtype, name="f_acc")
+  File "/home/erick-ribeiro/.local/lib/python3.6/site-packages/tensorflow/python/ops/gen_data_flow_ops.py", line 5265, in stack_v2
+    stack_name=stack_name, name=name)
+  File "/home/erick-ribeiro/.local/lib/python3.6/site-packages/tensorflow/python/framework/op_def_library.py", line 788, in _apply_op_helper
+    op_def=op_def)
+  File "/home/erick-ribeiro/.local/lib/python3.6/site-packages/tensorflow/python/util/deprecation.py", line 507, in new_func
+    return func(*args, **kwargs)
+  File "/home/erick-ribeiro/.local/lib/python3.6/site-packages/tensorflow/python/framework/ops.py", line 3300, in create_op
+    op_def=op_def)
+  File "/home/erick-ribeiro/.local/lib/python3.6/site-packages/tensorflow/python/framework/ops.py", line 1838, in __init__
+    self._control_flow_post_processing()
+  File "/home/erick-ribeiro/.local/lib/python3.6/site-packages/tensorflow/python/framework/ops.py", line 1846, in _control_flow_post_processing
+    for input_tensor in self.inputs:
+  File "/home/erick-ribeiro/.local/lib/python3.6/site-packages/tensorflow/python/framework/ops.py", line 2207, in inputs
+    for tf_output in tf_outputs
+  File "/home/erick-ribeiro/.local/lib/python3.6/site-packages/tensorflow/python/framework/ops.py", line 2207, in <listcomp>
+    for tf_output in tf_outputs
+  File "/home/erick-ribeiro/.local/lib/python3.6/site-packages/tensorflow/python/framework/ops.py", line 3670, in _get_tensor_by_tf_output
+    return op.outputs[tf_output.index]
+  File "/home/erick-ribeiro/.local/lib/python3.6/site-packages/tensorflow/python/framework/ops.py", line 2172, in outputs
+    return self._outputs
+KeyboardInterrupt
+2019-10-07 15:59:01,494 [ERROR]  Experienced exception while trying to serve
+Traceback (most recent call last):
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/app.py", line 1096, in run
+    serve(**server_settings)
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/server.py", line 742, in serve
+    trigger_events(before_start, loop)
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/server.py", line 604, in trigger_events
+    loop.run_until_complete(result)
+  File "uvloop/loop.pyx", line 1445, in uvloop.loop.Loop.run_until_complete
+  File "uvloop/loop.pyx", line 1438, in uvloop.loop.Loop.run_until_complete
+  File "uvloop/loop.pyx", line 1347, in uvloop.loop.Loop.run_forever
+  File "uvloop/loop.pyx", line 487, in uvloop.loop.Loop._run
+  File "uvloop/loop.pyx", line 404, in uvloop.loop.Loop._on_idle
+  File "uvloop/cbhandles.pyx", line 66, in uvloop.loop.Handle._run
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/rasa/core/run.py", line 218, in load_agent_on_start
+    action_endpoint=endpoints.action,
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/rasa/core/agent.py", line 262, in load_agent
+    remote_storage=remote_storage,
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/rasa/core/agent.py", line 892, in load_local_model
+    remote_storage=remote_storage,
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/rasa/core/agent.py", line 378, in load
+    ensemble = PolicyEnsemble.load(core_model) if core_model else None
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/rasa/core/policies/ensemble.py", line 232, in load
+    policy = policy_cls.load(policy_path)
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/rasa/core/policies/keras_policy.py", line 320, in load
+    model = load_model(model_file)
+  File "/home/erick-ribeiro/.local/lib/python3.6/site-packages/tensorflow/python/keras/engine/saving.py", line 285, in load_model
+    model.optimizer.set_weights(optimizer_weight_values)
+  File "/home/erick-ribeiro/.local/lib/python3.6/site-packages/tensorflow/python/keras/optimizers.py", line 139, in set_weights
+    K.batch_set_value(weight_value_tuples)
+  File "/home/erick-ribeiro/.local/lib/python3.6/site-packages/tensorflow/python/keras/backend.py", line 2880, in batch_set_value
+    get_session().run(assign_ops, feed_dict=feed_dict)
+  File "/home/erick-ribeiro/.local/lib/python3.6/site-packages/tensorflow/python/client/session.py", line 929, in run
+    run_metadata_ptr)
+  File "/home/erick-ribeiro/.local/lib/python3.6/site-packages/tensorflow/python/client/session.py", line 1152, in _run
+    feed_dict_tensor, options, run_metadata)
+  File "/home/erick-ribeiro/.local/lib/python3.6/site-packages/tensorflow/python/client/session.py", line 1328, in _do_run
+    run_metadata)
+  File "/home/erick-ribeiro/.local/lib/python3.6/site-packages/tensorflow/python/client/session.py", line 1334, in _do_call
+    return fn(*args)
+  File "/home/erick-ribeiro/.local/lib/python3.6/site-packages/tensorflow/python/client/session.py", line 1319, in _run_fn
+    options, feed_dict, fetch_list, target_list, run_metadata)
+  File "/home/erick-ribeiro/.local/lib/python3.6/site-packages/tensorflow/python/client/session.py", line 1407, in _call_tf_sessionrun
+    run_metadata)
+KeyboardInterrupt
+2019-10-07 15:59:24,787 [DEBUG]  Available web server routes: 
+/conversations/<conversation_id>/messages          POST                           add_message
+/conversations/<conversation_id>/tracker/events    POST                           append_events
+/webhooks/rasa                                     GET                            custom_webhook_RasaChatInput.health
+/webhooks/rasa/webhook                             POST                           custom_webhook_RasaChatInput.receive
+/webhooks/rest                                     GET                            custom_webhook_RestInput.health
+/webhooks/rest/webhook                             POST                           custom_webhook_RestInput.receive
+/model/test/intents                                POST                           evaluate_intents
+/model/test/stories                                POST                           evaluate_stories
+/conversations/<conversation_id>/execute           POST                           execute_action
+/domain                                            GET                            get_domain
+/socket.io                                         GET                            handle_request
+/                                                  GET                            hello
+/model                                             PUT                            load_model
+/model/parse                                       POST                           parse
+/conversations/<conversation_id>/predict           POST                           predict
+/conversations/<conversation_id>/tracker/events    PUT                            replace_events
+/conversations/<conversation_id>/story             GET                            retrieve_story
+/conversations/<conversation_id>/tracker           GET                            retrieve_tracker
+/webhooks/socketio                                 GET                            socketio_webhook.health
+/status                                            GET                            status
+/model/predict                                     POST                           tracker_predict
+/model/train                                       POST                           train
+/model                                             DELETE                         unload_model
+/version                                           GET                            version
+2019-10-07 16:03:55,053 [DEBUG]  Available web server routes: 
+/conversations/<conversation_id>/messages          POST                           add_message
+/conversations/<conversation_id>/tracker/events    POST                           append_events
+/webhooks/rasa                                     GET                            custom_webhook_RasaChatInput.health
+/webhooks/rasa/webhook                             POST                           custom_webhook_RasaChatInput.receive
+/webhooks/rest                                     GET                            custom_webhook_RestInput.health
+/webhooks/rest/webhook                             POST                           custom_webhook_RestInput.receive
+/model/test/intents                                POST                           evaluate_intents
+/model/test/stories                                POST                           evaluate_stories
+/conversations/<conversation_id>/execute           POST                           execute_action
+/domain                                            GET                            get_domain
+/socket.io                                         GET                            handle_request
+/                                                  GET                            hello
+/model                                             PUT                            load_model
+/model/parse                                       POST                           parse
+/conversations/<conversation_id>/predict           POST                           predict
+/conversations/<conversation_id>/tracker/events    PUT                            replace_events
+/conversations/<conversation_id>/story             GET                            retrieve_story
+/conversations/<conversation_id>/tracker           GET                            retrieve_tracker
+/webhooks/socketio                                 GET                            socketio_webhook.health
+/status                                            GET                            status
+/model/predict                                     POST                           tracker_predict
+/model/train                                       POST                           train
+/model                                             DELETE                         unload_model
+/version                                           GET                            version
+2019-10-07 16:03:55,053 [DEBUG]  Available web server routes: 
+/conversations/<conversation_id>/messages          POST                           add_message
+/conversations/<conversation_id>/tracker/events    POST                           append_events
+/webhooks/rasa                                     GET                            custom_webhook_RasaChatInput.health
+/webhooks/rasa/webhook                             POST                           custom_webhook_RasaChatInput.receive
+/webhooks/rest                                     GET                            custom_webhook_RestInput.health
+/webhooks/rest/webhook                             POST                           custom_webhook_RestInput.receive
+/model/test/intents                                POST                           evaluate_intents
+/model/test/stories                                POST                           evaluate_stories
+/conversations/<conversation_id>/execute           POST                           execute_action
+/domain                                            GET                            get_domain
+/socket.io                                         GET                            handle_request
+/                                                  GET                            hello
+/model                                             PUT                            load_model
+/model/parse                                       POST                           parse
+/conversations/<conversation_id>/predict           POST                           predict
+/conversations/<conversation_id>/tracker/events    PUT                            replace_events
+/conversations/<conversation_id>/story             GET                            retrieve_story
+/conversations/<conversation_id>/tracker           GET                            retrieve_tracker
+/webhooks/socketio                                 GET                            socketio_webhook.health
+/status                                            GET                            status
+/model/predict                                     POST                           tracker_predict
+/model/train                                       POST                           train
+/model                                             DELETE                         unload_model
+/version                                           GET                            version
+2019-10-07 16:03:55,380 [ERROR]  Experienced exception while trying to serve
+Traceback (most recent call last):
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/app.py", line 1096, in run
+    serve(**server_settings)
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/server.py", line 742, in serve
+    trigger_events(before_start, loop)
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/server.py", line 604, in trigger_events
+    loop.run_until_complete(result)
+  File "uvloop/loop.pyx", line 1445, in uvloop.loop.Loop.run_until_complete
+  File "uvloop/loop.pyx", line 1438, in uvloop.loop.Loop.run_until_complete
+  File "uvloop/loop.pyx", line 1347, in uvloop.loop.Loop.run_forever
+  File "uvloop/loop.pyx", line 487, in uvloop.loop.Loop._run
+  File "uvloop/loop.pyx", line 404, in uvloop.loop.Loop._on_idle
+  File "uvloop/cbhandles.pyx", line 66, in uvloop.loop.Handle._run
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/rasa/core/run.py", line 218, in load_agent_on_start
+    action_endpoint=endpoints.action,
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/rasa/core/agent.py", line 262, in load_agent
+    remote_storage=remote_storage,
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/rasa/core/agent.py", line 892, in load_local_model
+    remote_storage=remote_storage,
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/rasa/core/agent.py", line 378, in load
+    ensemble = PolicyEnsemble.load(core_model) if core_model else None
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/rasa/core/policies/ensemble.py", line 232, in load
+    policy = policy_cls.load(policy_path)
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/rasa/core/policies/keras_policy.py", line 320, in load
+    model = load_model(model_file)
+  File "/home/erick-ribeiro/.local/lib/python3.6/site-packages/tensorflow/python/keras/engine/saving.py", line 234, in load_model
+    model = model_from_config(model_config, custom_objects=custom_objects)
+  File "/home/erick-ribeiro/.local/lib/python3.6/site-packages/tensorflow/python/keras/engine/saving.py", line 324, in model_from_config
+    return deserialize(config, custom_objects=custom_objects)
+  File "/home/erick-ribeiro/.local/lib/python3.6/site-packages/tensorflow/python/keras/layers/serialization.py", line 74, in deserialize
+    printable_module_name='layer')
+  File "/home/erick-ribeiro/.local/lib/python3.6/site-packages/tensorflow/python/keras/utils/generic_utils.py", line 192, in deserialize_keras_object
+    list(custom_objects.items())))
+  File "/home/erick-ribeiro/.local/lib/python3.6/site-packages/tensorflow/python/keras/engine/sequential.py", line 350, in from_config
+    model.add(layer)
+  File "/home/erick-ribeiro/.local/lib/python3.6/site-packages/tensorflow/python/training/checkpointable/base.py", line 442, in _method_wrapper
+    method(self, *args, **kwargs)
+  File "/home/erick-ribeiro/.local/lib/python3.6/site-packages/tensorflow/python/keras/engine/sequential.py", line 180, in add
+    output_tensor = layer(self.outputs[0])
+  File "/home/erick-ribeiro/.local/lib/python3.6/site-packages/tensorflow/python/keras/layers/recurrent.py", line 701, in __call__
+    return super(RNN, self).__call__(inputs, **kwargs)
+  File "/home/erick-ribeiro/.local/lib/python3.6/site-packages/tensorflow/python/keras/engine/base_layer.py", line 554, in __call__
+    outputs = self.call(inputs, *args, **kwargs)
+  File "/home/erick-ribeiro/.local/lib/python3.6/site-packages/tensorflow/python/keras/layers/recurrent.py", line 2416, in call
+    inputs, mask=mask, training=training, initial_state=initial_state)
+  File "/home/erick-ribeiro/.local/lib/python3.6/site-packages/tensorflow/python/keras/layers/recurrent.py", line 822, in call
+    zero_output_for_mask=self.zero_output_for_mask)
+  File "/home/erick-ribeiro/.local/lib/python3.6/site-packages/tensorflow/python/keras/backend.py", line 3453, in rnn
+    initial_states + constants)
+  File "/home/erick-ribeiro/.local/lib/python3.6/site-packages/tensorflow/python/keras/layers/recurrent.py", line 807, in step
+    output, new_states = self.cell.call(inputs, states, **kwargs)
+  File "/home/erick-ribeiro/.local/lib/python3.6/site-packages/tensorflow/python/keras/layers/recurrent.py", line 2102, in call
+    inputs_o = inputs * dp_mask[3]
+  File "/home/erick-ribeiro/.local/lib/python3.6/site-packages/tensorflow/python/ops/math_ops.py", line 812, in binary_op_wrapper
+    return func(x, y, name=name)
+  File "/home/erick-ribeiro/.local/lib/python3.6/site-packages/tensorflow/python/ops/math_ops.py", line 1078, in _mul_dispatch
+    return gen_math_ops.mul(x, y, name=name)
+  File "/home/erick-ribeiro/.local/lib/python3.6/site-packages/tensorflow/python/ops/gen_math_ops.py", line 5860, in mul
+    "Mul", x=x, y=y, name=name)
+  File "/home/erick-ribeiro/.local/lib/python3.6/site-packages/tensorflow/python/framework/op_def_library.py", line 788, in _apply_op_helper
+    op_def=op_def)
+  File "/home/erick-ribeiro/.local/lib/python3.6/site-packages/tensorflow/python/util/deprecation.py", line 480, in new_func
+    named_args = tf_inspect.getcallargs(func, *args, **kwargs)
+  File "/home/erick-ribeiro/.local/lib/python3.6/site-packages/tensorflow/python/util/tf_inspect.py", line 262, in getcallargs
+    argspec = getfullargspec(func)
+  File "/home/erick-ribeiro/.local/lib/python3.6/site-packages/tensorflow/python/util/tf_inspect.py", line 243, in getfullargspec
+    if d.decorator_argspec is not None), _getfullargspec(target))
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/inspect.py", line 1126, in getfullargspec
+    sigcls=Signature)
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/inspect.py", line 2269, in _signature_from_callable
+    return _signature_from_function(sigcls, obj)
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/inspect.py", line 2139, in _signature_from_function
+    kind=_POSITIONAL_OR_KEYWORD))
+KeyboardInterrupt
+2019-10-07 16:04:42,992 [DEBUG]  Available web server routes: 
+/conversations/<conversation_id>/messages          POST                           add_message
+/conversations/<conversation_id>/tracker/events    POST                           append_events
+/webhooks/rasa                                     GET                            custom_webhook_RasaChatInput.health
+/webhooks/rasa/webhook                             POST                           custom_webhook_RasaChatInput.receive
+/webhooks/rest                                     GET                            custom_webhook_RestInput.health
+/webhooks/rest/webhook                             POST                           custom_webhook_RestInput.receive
+/model/test/intents                                POST                           evaluate_intents
+/model/test/stories                                POST                           evaluate_stories
+/conversations/<conversation_id>/execute           POST                           execute_action
+/domain                                            GET                            get_domain
+/socket.io                                         OPTIONS                        handle_request
+/                                                  GET                            hello
+/model                                             PUT                            load_model
+/model/parse                                       POST                           parse
+/conversations/<conversation_id>/predict           POST                           predict
+/conversations/<conversation_id>/tracker/events    PUT                            replace_events
+/conversations/<conversation_id>/story             GET                            retrieve_story
+/conversations/<conversation_id>/tracker           GET                            retrieve_tracker
+/webhooks/socketio                                 GET                            socketio_webhook.health
+/status                                            GET                            status
+/model/predict                                     POST                           tracker_predict
+/model/train                                       POST                           train
+/model                                             DELETE                         unload_model
+/version                                           GET                            version
+2019-10-07 16:14:42,657 [DEBUG]  Available web server routes: 
+/conversations/<conversation_id>/messages          POST                           add_message
+/conversations/<conversation_id>/tracker/events    POST                           append_events
+/webhooks/rasa                                     GET                            custom_webhook_RasaChatInput.health
+/webhooks/rasa/webhook                             POST                           custom_webhook_RasaChatInput.receive
+/webhooks/rest                                     GET                            custom_webhook_RestInput.health
+/webhooks/rest/webhook                             POST                           custom_webhook_RestInput.receive
+/model/test/intents                                POST                           evaluate_intents
+/model/test/stories                                POST                           evaluate_stories
+/conversations/<conversation_id>/execute           POST                           execute_action
+/domain                                            GET                            get_domain
+/socket.io                                         OPTIONS                        handle_request
+/                                                  GET                            hello
+/model                                             PUT                            load_model
+/model/parse                                       POST                           parse
+/conversations/<conversation_id>/predict           POST                           predict
+/conversations/<conversation_id>/tracker/events    PUT                            replace_events
+/conversations/<conversation_id>/story             GET                            retrieve_story
+/conversations/<conversation_id>/tracker           GET                            retrieve_tracker
+/webhooks/socketio                                 GET                            socketio_webhook.health
+/status                                            GET                            status
+/model/predict                                     POST                           tracker_predict
+/model/train                                       POST                           train
+/model                                             DELETE                         unload_model
+/version                                           GET                            version
+2019-10-07 16:14:42,657 [DEBUG]  Available web server routes: 
+/conversations/<conversation_id>/messages          POST                           add_message
+/conversations/<conversation_id>/tracker/events    POST                           append_events
+/webhooks/rasa                                     GET                            custom_webhook_RasaChatInput.health
+/webhooks/rasa/webhook                             POST                           custom_webhook_RasaChatInput.receive
+/webhooks/rest                                     GET                            custom_webhook_RestInput.health
+/webhooks/rest/webhook                             POST                           custom_webhook_RestInput.receive
+/model/test/intents                                POST                           evaluate_intents
+/model/test/stories                                POST                           evaluate_stories
+/conversations/<conversation_id>/execute           POST                           execute_action
+/domain                                            GET                            get_domain
+/socket.io                                         OPTIONS                        handle_request
+/                                                  GET                            hello
+/model                                             PUT                            load_model
+/model/parse                                       POST                           parse
+/conversations/<conversation_id>/predict           POST                           predict
+/conversations/<conversation_id>/tracker/events    PUT                            replace_events
+/conversations/<conversation_id>/story             GET                            retrieve_story
+/conversations/<conversation_id>/tracker           GET                            retrieve_tracker
+/webhooks/socketio                                 GET                            socketio_webhook.health
+/status                                            GET                            status
+/model/predict                                     POST                           tracker_predict
+/model/train                                       POST                           train
+/model                                             DELETE                         unload_model
+/version                                           GET                            version
+2019-10-07 16:14:43,212 [ERROR]  Experienced exception while trying to serve
+Traceback (most recent call last):
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/app.py", line 1096, in run
+    serve(**server_settings)
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/server.py", line 742, in serve
+    trigger_events(before_start, loop)
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/server.py", line 604, in trigger_events
+    loop.run_until_complete(result)
+  File "uvloop/loop.pyx", line 1445, in uvloop.loop.Loop.run_until_complete
+  File "uvloop/loop.pyx", line 1438, in uvloop.loop.Loop.run_until_complete
+  File "uvloop/loop.pyx", line 1347, in uvloop.loop.Loop.run_forever
+  File "uvloop/loop.pyx", line 487, in uvloop.loop.Loop._run
+  File "uvloop/loop.pyx", line 404, in uvloop.loop.Loop._on_idle
+  File "uvloop/cbhandles.pyx", line 66, in uvloop.loop.Handle._run
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/rasa/core/run.py", line 218, in load_agent_on_start
+    action_endpoint=endpoints.action,
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/rasa/core/agent.py", line 262, in load_agent
+    remote_storage=remote_storage,
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/rasa/core/agent.py", line 892, in load_local_model
+    remote_storage=remote_storage,
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/rasa/core/agent.py", line 378, in load
+    ensemble = PolicyEnsemble.load(core_model) if core_model else None
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/rasa/core/policies/ensemble.py", line 232, in load
+    policy = policy_cls.load(policy_path)
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/rasa/core/policies/keras_policy.py", line 320, in load
+    model = load_model(model_file)
+  File "/home/erick-ribeiro/.local/lib/python3.6/site-packages/tensorflow/python/keras/engine/saving.py", line 266, in load_model
+    sample_weight_mode=sample_weight_mode)
+  File "/home/erick-ribeiro/.local/lib/python3.6/site-packages/tensorflow/python/training/checkpointable/base.py", line 442, in _method_wrapper
+    method(self, *args, **kwargs)
+  File "/home/erick-ribeiro/.local/lib/python3.6/site-packages/tensorflow/python/keras/engine/training.py", line 449, in compile
+    output_loss = weighted_loss(y_true, y_pred, sample_weight, mask)
+  File "/home/erick-ribeiro/.local/lib/python3.6/site-packages/tensorflow/python/keras/engine/training_utils.py", line 666, in weighted
+    weights = weights_broadcast_ops.broadcast_weights(weights, score_array)
+  File "/home/erick-ribeiro/.local/lib/python3.6/site-packages/tensorflow/python/ops/weights_broadcast_ops.py", line 169, in broadcast_weights
+    weights, array_ops.ones_like(values), name=scope)
+  File "/home/erick-ribeiro/.local/lib/python3.6/site-packages/tensorflow/python/util/dispatch.py", line 180, in wrapper
+    return target(*args, **kwargs)
+  File "/home/erick-ribeiro/.local/lib/python3.6/site-packages/tensorflow/python/ops/array_ops.py", line 1941, in ones_like
+    return ones_like_impl(tensor, dtype, name, optimize)
+  File "/home/erick-ribeiro/.local/lib/python3.6/site-packages/tensorflow/python/ops/array_ops.py", line 1980, in ones_like_impl
+    ones_shape = shape_internal(tensor, optimize=optimize)
+  File "/home/erick-ribeiro/.local/lib/python3.6/site-packages/tensorflow/python/ops/array_ops.py", line 337, in shape_internal
+    return gen_array_ops.shape(input, name=name, out_type=out_type)
+  File "/home/erick-ribeiro/.local/lib/python3.6/site-packages/tensorflow/python/ops/gen_array_ops.py", line 8009, in shape
+    "Shape", input=input, out_type=out_type, name=name)
+  File "/home/erick-ribeiro/.local/lib/python3.6/site-packages/tensorflow/python/framework/op_def_library.py", line 788, in _apply_op_helper
+    op_def=op_def)
+  File "/home/erick-ribeiro/.local/lib/python3.6/site-packages/tensorflow/python/util/deprecation.py", line 507, in new_func
+    return func(*args, **kwargs)
+  File "/home/erick-ribeiro/.local/lib/python3.6/site-packages/tensorflow/python/framework/ops.py", line 3301, in create_op
+    self._create_op_helper(ret, compute_device=compute_device)
+  File "/home/erick-ribeiro/.local/lib/python3.6/site-packages/tensorflow/python/framework/ops.py", line 3356, in _create_op_helper
+    kernel_label = self._op_to_kernel_label_map[op.type]
+  File "/home/erick-ribeiro/.local/lib/python3.6/site-packages/tensorflow/python/framework/ops.py", line 2299, in type
+    return c_api.TF_OperationOpType(self._c_op)
+KeyboardInterrupt
+2019-10-07 16:14:47,182 [DEBUG]  Available web server routes: 
+/conversations/<conversation_id>/messages          POST                           add_message
+/conversations/<conversation_id>/tracker/events    POST                           append_events
+/webhooks/rasa                                     GET                            custom_webhook_RasaChatInput.health
+/webhooks/rasa/webhook                             POST                           custom_webhook_RasaChatInput.receive
+/webhooks/rest                                     GET                            custom_webhook_RestInput.health
+/webhooks/rest/webhook                             POST                           custom_webhook_RestInput.receive
+/model/test/intents                                POST                           evaluate_intents
+/model/test/stories                                POST                           evaluate_stories
+/conversations/<conversation_id>/execute           POST                           execute_action
+/domain                                            GET                            get_domain
+/socket.io                                         GET                            handle_request
+/                                                  GET                            hello
+/model                                             PUT                            load_model
+/model/parse                                       POST                           parse
+/conversations/<conversation_id>/predict           POST                           predict
+/conversations/<conversation_id>/tracker/events    PUT                            replace_events
+/conversations/<conversation_id>/story             GET                            retrieve_story
+/conversations/<conversation_id>/tracker           GET                            retrieve_tracker
+/webhooks/socketio                                 GET                            socketio_webhook.health
+/status                                            GET                            status
+/model/predict                                     POST                           tracker_predict
+/model/train                                       POST                           train
+/model                                             DELETE                         unload_model
+/version                                           GET                            version
+2019-10-07 16:29:20,674 [DEBUG]  Available web server routes: 
+/conversations/<conversation_id>/messages          POST                           add_message
+/conversations/<conversation_id>/tracker/events    POST                           append_events
+/webhooks/rasa                                     GET                            custom_webhook_RasaChatInput.health
+/webhooks/rasa/webhook                             POST                           custom_webhook_RasaChatInput.receive
+/webhooks/rest                                     GET                            custom_webhook_RestInput.health
+/webhooks/rest/webhook                             POST                           custom_webhook_RestInput.receive
+/model/test/intents                                POST                           evaluate_intents
+/model/test/stories                                POST                           evaluate_stories
+/conversations/<conversation_id>/execute           POST                           execute_action
+/domain                                            GET                            get_domain
+/socket.io                                         GET                            handle_request
+/                                                  GET                            hello
+/model                                             PUT                            load_model
+/model/parse                                       POST                           parse
+/conversations/<conversation_id>/predict           POST                           predict
+/conversations/<conversation_id>/tracker/events    PUT                            replace_events
+/conversations/<conversation_id>/story             GET                            retrieve_story
+/conversations/<conversation_id>/tracker           GET                            retrieve_tracker
+/webhooks/socketio                                 GET                            socketio_webhook.health
+/status                                            GET                            status
+/model/predict                                     POST                           tracker_predict
+/model/train                                       POST                           train
+/model                                             DELETE                         unload_model
+/version                                           GET                            version
+2019-10-07 16:29:20,674 [DEBUG]  Available web server routes: 
+/conversations/<conversation_id>/messages          POST                           add_message
+/conversations/<conversation_id>/tracker/events    POST                           append_events
+/webhooks/rasa                                     GET                            custom_webhook_RasaChatInput.health
+/webhooks/rasa/webhook                             POST                           custom_webhook_RasaChatInput.receive
+/webhooks/rest                                     GET                            custom_webhook_RestInput.health
+/webhooks/rest/webhook                             POST                           custom_webhook_RestInput.receive
+/model/test/intents                                POST                           evaluate_intents
+/model/test/stories                                POST                           evaluate_stories
+/conversations/<conversation_id>/execute           POST                           execute_action
+/domain                                            GET                            get_domain
+/socket.io                                         GET                            handle_request
+/                                                  GET                            hello
+/model                                             PUT                            load_model
+/model/parse                                       POST                           parse
+/conversations/<conversation_id>/predict           POST                           predict
+/conversations/<conversation_id>/tracker/events    PUT                            replace_events
+/conversations/<conversation_id>/story             GET                            retrieve_story
+/conversations/<conversation_id>/tracker           GET                            retrieve_tracker
+/webhooks/socketio                                 GET                            socketio_webhook.health
+/status                                            GET                            status
+/model/predict                                     POST                           tracker_predict
+/model/train                                       POST                           train
+/model                                             DELETE                         unload_model
+/version                                           GET                            version
+2019-10-07 16:29:21,501 [ERROR]  Experienced exception while trying to serve
+Traceback (most recent call last):
+  File "/home/erick-ribeiro/.local/lib/python3.6/site-packages/tensorflow/python/framework/ops.py", line 2409, in get_attr
+    c_api.TF_OperationGetAttrValueProto(self._c_op, name, buf)
+tensorflow.python.framework.errors_impl.InvalidArgumentError: Operation 'lstm/while/mul_8' has no attr named '_XlaCompile'.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/erick-ribeiro/.local/lib/python3.6/site-packages/tensorflow/python/ops/gradients_impl.py", line 415, in _MaybeCompile
+    xla_compile = op.get_attr("_XlaCompile")
+  File "/home/erick-ribeiro/.local/lib/python3.6/site-packages/tensorflow/python/framework/ops.py", line 2413, in get_attr
+    raise ValueError(str(e))
+ValueError: Operation 'lstm/while/mul_8' has no attr named '_XlaCompile'.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/app.py", line 1096, in run
+    serve(**server_settings)
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/server.py", line 742, in serve
+    trigger_events(before_start, loop)
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/sanic/server.py", line 604, in trigger_events
+    loop.run_until_complete(result)
+  File "uvloop/loop.pyx", line 1445, in uvloop.loop.Loop.run_until_complete
+  File "uvloop/loop.pyx", line 1438, in uvloop.loop.Loop.run_until_complete
+  File "uvloop/loop.pyx", line 1347, in uvloop.loop.Loop.run_forever
+  File "uvloop/loop.pyx", line 487, in uvloop.loop.Loop._run
+  File "uvloop/loop.pyx", line 404, in uvloop.loop.Loop._on_idle
+  File "uvloop/cbhandles.pyx", line 66, in uvloop.loop.Handle._run
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/rasa/core/run.py", line 218, in load_agent_on_start
+    action_endpoint=endpoints.action,
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/rasa/core/agent.py", line 262, in load_agent
+    remote_storage=remote_storage,
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/rasa/core/agent.py", line 892, in load_local_model
+    remote_storage=remote_storage,
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/rasa/core/agent.py", line 378, in load
+    ensemble = PolicyEnsemble.load(core_model) if core_model else None
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/rasa/core/policies/ensemble.py", line 232, in load
+    policy = policy_cls.load(policy_path)
+  File "/home/erick-ribeiro/anaconda3/envs/rasa_faq/lib/python3.6/site-packages/rasa/core/policies/keras_policy.py", line 320, in load
+    model = load_model(model_file)
+  File "/home/erick-ribeiro/.local/lib/python3.6/site-packages/tensorflow/python/keras/engine/saving.py", line 275, in load_model
+    model._make_train_function()
+  File "/home/erick-ribeiro/.local/lib/python3.6/site-packages/tensorflow/python/keras/engine/training.py", line 1919, in _make_train_function
+    [self.total_loss] + metrics_tensors)
+  File "/home/erick-ribeiro/.local/lib/python3.6/site-packages/tensorflow/python/keras/engine/training.py", line 1895, in _make_train_function_helper
+    params=self._collected_trainable_weights, loss=self.total_loss)
+  File "/home/erick-ribeiro/.local/lib/python3.6/site-packages/tensorflow/python/keras/optimizers.py", line 259, in get_updates
+    grads = self.get_gradients(loss, params)
+  File "/home/erick-ribeiro/.local/lib/python3.6/site-packages/tensorflow/python/keras/optimizers.py", line 93, in get_gradients
+    grads = K.gradients(loss, params)
+  File "/home/erick-ribeiro/.local/lib/python3.6/site-packages/tensorflow/python/keras/backend.py", line 3216, in gradients
+    loss, variables, colocate_gradients_with_ops=True)
+  File "/home/erick-ribeiro/.local/lib/python3.6/site-packages/tensorflow/python/ops/gradients_impl.py", line 664, in gradients
+    unconnected_gradients)
+  File "/home/erick-ribeiro/.local/lib/python3.6/site-packages/tensorflow/python/ops/gradients_impl.py", line 965, in _GradientsHelper
+    lambda: grad_fn(op, *out_grads))
+  File "/home/erick-ribeiro/.local/lib/python3.6/site-packages/tensorflow/python/ops/gradients_impl.py", line 420, in _MaybeCompile
+    return grad_fn()  # Exit early
+  File "/home/erick-ribeiro/.local/lib/python3.6/site-packages/tensorflow/python/ops/gradients_impl.py", line 965, in <lambda>
+    lambda: grad_fn(op, *out_grads))
+  File "/home/erick-ribeiro/.local/lib/python3.6/site-packages/tensorflow/python/ops/math_grad.py", line 944, in _MulGrad
+    math_ops.reduce_sum(gen_math_ops.mul(grad, y), rx), sx),
+  File "/home/erick-ribeiro/.local/lib/python3.6/site-packages/tensorflow/python/ops/gen_math_ops.py", line 5860, in mul
+    "Mul", x=x, y=y, name=name)
+  File "/home/erick-ribeiro/.local/lib/python3.6/site-packages/tensorflow/python/framework/op_def_library.py", line 788, in _apply_op_helper
+    op_def=op_def)
+  File "/home/erick-ribeiro/.local/lib/python3.6/site-packages/tensorflow/python/util/deprecation.py", line 507, in new_func
+    return func(*args, **kwargs)
+  File "/home/erick-ribeiro/.local/lib/python3.6/site-packages/tensorflow/python/framework/ops.py", line 3300, in create_op
+    op_def=op_def)
+  File "/home/erick-ribeiro/.local/lib/python3.6/site-packages/tensorflow/python/framework/ops.py", line 1838, in __init__
+    self._control_flow_post_processing()
+  File "/home/erick-ribeiro/.local/lib/python3.6/site-packages/tensorflow/python/framework/ops.py", line 1849, in _control_flow_post_processing
+    self._control_flow_context.AddOp(self)
+  File "/home/erick-ribeiro/.local/lib/python3.6/site-packages/tensorflow/python/ops/control_flow_ops.py", line 2561, in AddOp
+    self._AddOpInternal(op)
+  File "/home/erick-ribeiro/.local/lib/python3.6/site-packages/tensorflow/python/ops/control_flow_ops.py", line 2582, in _AddOpInternal
+    real_x = self.AddValue(x)
+  File "/home/erick-ribeiro/.local/lib/python3.6/site-packages/tensorflow/python/ops/control_flow_ops.py", line 2514, in AddValue
+    real_val = grad_ctxt.grad_state.GetRealValue(val)
+  File "/home/erick-ribeiro/.local/lib/python3.6/site-packages/tensorflow/python/ops/control_flow_ops.py", line 1146, in GetRealValue
+    history_value = cur_grad_state.AddForwardAccumulator(cur_value)
+  File "/home/erick-ribeiro/.local/lib/python3.6/site-packages/tensorflow/python/ops/control_flow_ops.py", line 1013, in AddForwardAccumulator
+    max_size=max_size, elem_type=value.dtype.base_dtype, name="f_acc")
+  File "/home/erick-ribeiro/.local/lib/python3.6/site-packages/tensorflow/python/ops/gen_data_flow_ops.py", line 5265, in stack_v2
+    stack_name=stack_name, name=name)
+  File "/home/erick-ribeiro/.local/lib/python3.6/site-packages/tensorflow/python/framework/op_def_library.py", line 788, in _apply_op_helper
+    op_def=op_def)
+  File "/home/erick-ribeiro/.local/lib/python3.6/site-packages/tensorflow/python/util/deprecation.py", line 507, in new_func
+    return func(*args, **kwargs)
+  File "/home/erick-ribeiro/.local/lib/python3.6/site-packages/tensorflow/python/framework/ops.py", line 3300, in create_op
+    op_def=op_def)
+  File "/home/erick-ribeiro/.local/lib/python3.6/site-packages/tensorflow/python/framework/ops.py", line 1829, in __init__
+    for i in range(num_outputs)]
+  File "/home/erick-ribeiro/.local/lib/python3.6/site-packages/tensorflow/python/framework/ops.py", line 1829, in <listcomp>
+    for i in range(num_outputs)]
+KeyboardInterrupt
+2019-10-07 17:26:01,790 [DEBUG]  Available web server routes: 
+/webhooks/rest                                     GET                            custom_webhook_CmdlineInput.health
+/webhooks/rest/webhook                             POST                           custom_webhook_CmdlineInput.receive
+2019-10-07 17:27:05,134 [DEBUG]  Available web server routes: 
+/webhooks/rest                                     GET                            custom_webhook_CmdlineInput.health
+/webhooks/rest/webhook                             POST                           custom_webhook_CmdlineInput.receive
+2019-10-07 17:33:10,062 [DEBUG]  Available web server routes: 
+/webhooks/rest                                     GET                            custom_webhook_CmdlineInput.health
+/webhooks/rest/webhook                             POST                           custom_webhook_CmdlineInput.receive
+2019-10-07 17:37:01,290 [DEBUG]  Available web server routes: 
+/webhooks/rest                                     GET                            custom_webhook_CmdlineInput.health
+/webhooks/rest/webhook                             POST                           custom_webhook_CmdlineInput.receive
+2019-10-07 18:29:46,519 [DEBUG]  Available web server routes: 
+/webhooks/rest                                     GET                            custom_webhook_CmdlineInput.health
+/webhooks/rest/webhook                             POST                           custom_webhook_CmdlineInput.receive
+2019-10-07 18:33:13,534 [DEBUG]  Available web server routes: 
+/webhooks/rest                                     GET                            custom_webhook_CmdlineInput.health
+/webhooks/rest/webhook                             POST                           custom_webhook_CmdlineInput.receive
+2019-10-07 18:33:53,807 [DEBUG]  Available web server routes: 
+/webhooks/rest                                     GET                            custom_webhook_CmdlineInput.health
+/webhooks/rest/webhook                             POST                           custom_webhook_CmdlineInput.receive
+2019-10-07 18:34:30,974 [DEBUG]  Available web server routes: 
+/webhooks/rest                                     GET                            custom_webhook_CmdlineInput.health
+/webhooks/rest/webhook                             POST                           custom_webhook_CmdlineInput.receive
+2019-10-07 18:40:15,682 [DEBUG]  Available web server routes: 
+/webhooks/rest                                     GET                            custom_webhook_CmdlineInput.health
+/webhooks/rest/webhook                             POST                           custom_webhook_CmdlineInput.receive
+2019-10-07 18:40:58,987 [DEBUG]  Available web server routes: 
+/webhooks/rest                                     GET                            custom_webhook_CmdlineInput.health
+/webhooks/rest/webhook                             POST                           custom_webhook_CmdlineInput.receive
+2019-10-07 18:41:53,096 [DEBUG]  Available web server routes: 
+/webhooks/rest                                     GET                            custom_webhook_CmdlineInput.health
+/webhooks/rest/webhook                             POST                           custom_webhook_CmdlineInput.receive
+2019-10-07 18:43:42,162 [DEBUG]  Available web server routes: 
+/webhooks/rest                                     GET                            custom_webhook_CmdlineInput.health
+/webhooks/rest/webhook                             POST                           custom_webhook_CmdlineInput.receive
+2019-10-07 19:02:36,126 [DEBUG]  Available web server routes: 
+/webhooks/rest                                     GET                            custom_webhook_CmdlineInput.health
+/webhooks/rest/webhook                             POST                           custom_webhook_CmdlineInput.receive
+2019-10-07 19:11:47,264 [DEBUG]  Available web server routes: 
+/webhooks/rest                                     GET                            custom_webhook_CmdlineInput.health
+/webhooks/rest/webhook                             POST                           custom_webhook_CmdlineInput.receive
+2019-10-07 19:12:56,715 [DEBUG]  Available web server routes: 
+/webhooks/rest                                     GET                            custom_webhook_CmdlineInput.health
+/webhooks/rest/webhook                             POST                           custom_webhook_CmdlineInput.receive
+2019-10-07 19:14:50,791 [DEBUG]  Available web server routes: 
+/webhooks/rest                                     GET                            custom_webhook_CmdlineInput.health
+/webhooks/rest/webhook                             POST                           custom_webhook_CmdlineInput.receive
+2019-10-07 19:16:13,023 [DEBUG]  Available web server routes: 
+/webhooks/rest                                     GET                            custom_webhook_CmdlineInput.health
+/webhooks/rest/webhook                             POST                           custom_webhook_CmdlineInput.receive
+2019-10-07 19:18:02,797 [DEBUG]  Available web server routes: 
+/webhooks/rest                                     GET                            custom_webhook_CmdlineInput.health
+/webhooks/rest/webhook                             POST                           custom_webhook_CmdlineInput.receive
+2019-10-08 08:00:56,500 [DEBUG]  Available web server routes: 
+/webhooks/rest                                     GET                            custom_webhook_CmdlineInput.health
+/webhooks/rest/webhook                             POST                           custom_webhook_CmdlineInput.receive
