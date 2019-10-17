@@ -32,7 +32,7 @@ class WeatherAction(Action):
             if len(entities) > 0:
                 name = ' '.join(entities)
                 r = requests.get(
-                    'http://localhost:5000/weather/{}'.format(name))
+                    'http://192.168.1.155:5000/weather/{}'.format(name))
                 data = r.json()
                 dispatcher.utter_message(data['message'])
             else:
