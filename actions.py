@@ -3,69 +3,46 @@
 #
 # See this guide on how to implement these action:
 # https://rasa.com/docs/rasa/core/actions/#custom-actions/
+import requests
 from typing import Dict, Text, Any, List, Union, Optional
 
-from rasa_sdk import Tracker
+from rasa_sdk import Action, Tracker
 from rasa_sdk.events import SlotSet
+from rasa_sdk.events import UserUtteranceReverted
 from rasa_sdk.executor import CollectingDispatcher
 from rasa_sdk.forms import FormAction
 
 
-# class ActionHelloWorld(Action):
-#
-#     def name(self) -> Text:
-#         return "action_hello_world"
-#
-#     def run(self, dispatcher: CollectingDispatcher,
-#             tracker: Tracker,
-#             domain: Dict[Text, Any]) -> List[Dict[Text, Any]]:
-#
-#         dispatcher.utter_message("Hello World!")
-#
-#         return []
+class WeatherAction(Action):
 
-class WeatherForm(FormAction):
+    def name(self) -> Text:
+        return "weather_action"
 
-    def name(self):
-        return "weather_form"
+    def run(self, dispatcher: CollectingDispatcher,
+            tracker: Tracker,
+            domain: Dict[Text, Any]) -> List[Dict[Text, Any]]:
 
-    @staticmethod
-    def required_slots(tracker: Tracker) -> List[Text]:
-        print('required_slots')
-        """A list of required slots that the form has to fill"""
+        has_location = True
+        if 'entities' in tracker.latest_message:
+            entities = [
+                entity['value'] for entity in tracker.latest_message['entities'] if entity['entity'] == 'location'
+            ]
 
-        return ["location"]
+            print(entities)
+            if len(entities) > 0:
+                name = ' '.join(entities)
+                r = requests.get(
+                    'http://localhost:5000/weather/{}'.format(name))
+                data = r.json()
+                dispatcher.utter_message(data['message'])
+            else:
+                has_location = False
+        else:
+            has_location = False
 
-    def slot_mappings(self):
-        print('slot_mappings')
-        return {"location":
-                self.from_entity(entity="location"),
-                # "again": [
-                #     self.from_intent(intent='affirm', value=True),
-                #     self.from_intent(intent='deny', value=False)
-                # ]
-                }
+        if not has_location:
+            dispatcher.utter_message(
+                'Informe o nome de uma cidade ou estado situado no Brasil.'
+            )
 
-    def validate_location(self,
-                          value: Text,
-                          dispatcher: CollectingDispatcher,
-                          tracker: Tracker,
-                          domain: Dict[Text, Any]) -> Dict[Text, Any]:
-            dispatcher.utter_message('validate location', tracker)
-            return {"location": value}
-
-    def submit(self,
-               dispatcher: CollectingDispatcher,
-               tracker: Tracker,
-               domain: Dict[Text, Any]) -> List[Dict]:
-        """Define what the form has to do
-            after all required slots are filled"""
-
-        print('submit')
-        # utter submit template
-        self._activate_if_required(dispatcher, tracker, domain)
-        dispatcher.utter_template('utter_submit', tracker)
-        dispatcher.utter_template('utter_ask_again', tracker)
-
-        return [SlotSet("location", None)]
-
+        return [UserUtteranceReverted()]

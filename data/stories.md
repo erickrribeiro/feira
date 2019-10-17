@@ -1,24 +1,29 @@
-## Path 01 
+## Fluxo 01
 * greet
     - utter_greet
 
-## Path 02
+## Fluxo 02 
+* greet
+    - utter_greet
 * get_weather
-    - weather_form
-    - form{"name": "weather_form"}
-    - slot{"requested_slot": "location"}
-* deny
+    - weather_action
+* goodbye
     - utter_goodbye
-    - form{"name": null}
 
-## Path 02
-* get_weather
-    - weather_form
-    - form{"name": "weather_form"}
-    - slot{"requested_slot": "location"}
-    
-* affirm
-    - utter_explain
-    - form{"name": "weather_form"}
-    
+## Fluxo 03 
+* greet
+    - utter_greet
+* inform
+    - weather_action
+* goodbye
+    - utter_goodbye
 
+## Fluxo 04
+* greet
+    - utter_greet
+* inform
+    - weather_action
+* inform
+    - weather_action
+* goodbye
+    - utter_goodbye
